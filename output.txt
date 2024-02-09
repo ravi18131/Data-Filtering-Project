@@ -1,0 +1,2969 @@
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Print
+Computer Proficiency Certification Test
+
+Notations :
+1.Options shown in green color and with  icon are correct.
+
+2.0Options shown in red color and with  icon are incorrect.
+
+ComputerProficiencyCertificationTest 2nd Mar 2023 Shift
+
+Question Paper Name : 1
+Subject Name : Computer Proficiency Certification Test
+Creation Date : 20230302 13:50:32
+Duration : 120
+Total Marks : 75
+Display Marks: Yes
+Share Answer Key With Delivery Engine : Yes
+Actual Answer Key : Yes
+Calculator : None
+Magnifying Glass Required : No
+Ruler Required : No
+Eraser Required : No
+Scratch Pad Required : No
+Rough Sketch/Notepad Required : No
+Protractor Required : No
+Show Watermark on Console : No
+Highlighter : No
+Auto Save on Console Yes
+Change Font Color : No
+Change Background Color : No
+Change Theme : No
+Help Button : No
+Show Reports : No
+Show Progress Bar : No
+
+CPCT
+
+Group Number : 1
+
+Group Id : 2549894446
+Group Maximum Duration : 75
+
+Group Minimum Duration : 75
+
+Show Attended Group : No
+
+Edit Attended Group : No
+
+Break time : 1
+Mandatory Break time : Yes
+Group Marks : 75
+
+Is this Group for Examiner : No
+Examiner permission : Cant View
+Show Progress Bar : No
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 1/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+COMPUTER PROFICIENCY AND PROFICIENCY IN GENERAL IT SKILLS
+
+AND NETWORKING
+Section Id : 2549897004
+Section Number : 1
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 52
+Number of Questions to be attempted : 52
+Section Marks : 52
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897045
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 1 Question Id : 2549896396 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+ ,              
+Options :
+
+1.  
+
+2.  
+
+3.   
+
+4. 
+
+Question Number : 1 Question Id : 2549896396 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a small graphical representation of a program, feature or file
+Options :
+
+1.  Desktop
+
+2.  Driver
+
+3.  Screensaver
+
+4.  Icon
+
+Question Number : 2 Question Id : 2549897786 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MUR            
+
+Options :
+
+1.                
+2.           
+
+3.  Gboard        
+
+4.           
+
+Question Number : 2 Question Id : 2549897786 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 2/141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Which of the following statements with reference to virtual keyboard is true
+Options :
+1.  A virtual keyboard is a software that is used to emulate a standard keyboard.
+2.  Virtual keyboards are featured only in desktop computers.
+3.  Gboard is a virtual keyboard developed by Microsoft.
+
+4.  Virtual keyboards do not include letters and punctuation symbols.
+
+Question Number : 3 Question Id : 2549898405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS Excel                
+Options :
+
+1.  ABSDEV 
+
+2.  DEVABS 
+
+3.  AVEDEV 
+
+4. . ADEVS 
+
+Question Number : 3 Question Id : 2549898405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following functions returns the average of the absolute deviations of data points from their mean in MSExcel
+Options :
+
+1.  ABSDEV function
+
+2.  DEVABS function
+
+3.  AVEDEV function
+
+4.  ADEVS function
+
+Question Number : 4 Question Id : 2549899141 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+If you are using a Linux Operating System, which of the following symbol represents the toplevel directory in the operating
+system
+
+Options :
+1. 
+2. 
+3. 4
+4.9
+
+Question Number : 4 Question Id : 2549899141 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+         ,        symbol    
+    
+
+Options :
+1. 
+
+2. 
+
+3.  4
+
+4.9
+
+Question Number : 5 Question Id : 25498911736 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 3/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+           
+Options :
+1.  
+2.   
+3.   
+4.  
+
+Question Number : 5 Question Id : 25498911736 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+First generation computers are based on which of the following technologies
+Options :
+
+1.  Transistor
+
+2.  Vacuum tube
+
+3.  Integrated circuit
+
+4.  Microprocessor
+
+Question Number : 6 Question Id : 25498911762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+         , ,   , ,       
+       
+
+Options :
+
+1.  
+
+2.   
+
+3.  
+
+4.  
+
+Question Number : 6 Question Id : 25498911762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a program used mainly for creating documents such as brochures, letters, learning activities, quizzes,
+tests and students homework assignments
+
+Options :
+
+1.  Presentation
+
+2.  Word processor
+3.  Spreadsheet
+
+4.  Database
+
+Question Number : 7 Question Id : 25498923895 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+             
+Options :
+
+1.   
+
+2.   
+
+3.    
+
+4.   
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 4/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 7 Question Id : 25498923895 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following languages is understood and executed by a computer
+Options :
+
+1.  Machine language
+
+2.  Middlelevel language
+
+3.  Highlevel language
+
+4.  Assembly language
+
+Question Number : 8 Question Id : 25498929727 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+                      
+        
+
+Options :
+
+1.   ds  
+
+2.      
+
+3.         
+
+4.   
+
+Question Number : 8 Question Id : 25498929727 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+does NOT require ultraviolet light but higher voltage, which can be applied to each memory cell separately instead of
+whole circuit.
+
+Options :
+
+1. . Programmable Read Only Memory
+
+2.  Erasable Programmable Read Only Memory
+
+3.  Electrically Erasable Programmable Read Only Memory
+4.  Flash memory
+
+Question Number : 9 Question Id : 25498929891 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+                 
+Options :
+
+1.       
+
+2.            
+
+3.       
+
+4.        
+
+Question Number : 9 Question Id : 25498929891 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+The last digit in a barcode is called a check digit. This digit helps the scanner know if the barcode:
+Options :
+1.  is secure or not
+2. was scanned correctly or not
+3.  is confidential or not
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 5/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+4.  was modified or not
+
+Question Number : 10 Question Id : 25498929973 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+          /          
+THR     
+
+Options :
+
+1.   
+2.   
+
+3.   
+
+4.   
+
+Question Number : 10 Question Id : 25498929973 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Biometric spoofing is a method by which a counterfeit mould emulates of an individual to confuse the biometric scanner.
+Options :
+
+1.  biometric attributes
+
+2.  an identity card
+
+3.  an Aadhaar card
+
+4.  a PAN card
+
+Question Number : 11 Question Id : 25498931264 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+A/An USB port is used to connect like cameras and scanners to a computer.
+Options :
+
+1.  peripherals
+
+2.  system softwares
+
+3.  bottlenecks
+
+4.  application softwares
+
+Question Number : 11 Question Id : 25498931264 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+A/An USB                 
+Options :
+
+1.    peripherals
+
+2.    system softwares
+
+3.   bottlenecks
+
+4.    application softwares
+
+Question Number : 12 Question Id : 25498931328 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+       ,         
+Options :
+
+1.   
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 6/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+2.   
+3.    
+4.   
+
+Question Number : 12 Question Id : 25498931328 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+When we plug in a flash drive, the computer recognises it as:
+Options :
+
+1.  a disk drive
+
+2.  primary memory
+
+3.  read only memory
+
+4.  cache memory
+
+Question Number : 13 Question Id : 25498933053 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+         
+Options :
+
+1.   
+
+2.  
+
+3.  
+
+4.  
+
+Question Number : 13 Question Id : 25498933053 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+A graphic tablet is also known as:
+Options :
+
+1. a drawing tablet
+
+2.  apuck
+
+3.  a bookpad
+
+4.  a pantograph
+
+Question Number : 14 Question Id : 25498933180 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+                
+
+, , , 
+Options :
+
+1.  , , , 
+2.  , , , 
+3.  , , , 
+4.  , , , 
+
+Question Number : 14 Question Id : 25498933180 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Select the option that arranges the given byte units in ascending order of size.
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 7141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Gigabyte, Megabyte, Petabyte and Terabyte
+Options :
+
+1.  Megabyte, Gigabyte, Terabyte, Petabyte
+2.  Gigabyte, Megabyte, Petabyte, Terabyte
+3.  Megabyte, Petabyte, Gigabyte, Terabyte
+4.  Gigabyte, Megabyte, Terabyte, Petabyte
+
+Question Number : 15 Question Id : 25498933935 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+  1/0    ,     
+Options :
+
+1.  
+
+2.   
+
+3.  
+
+4.  
+
+Question Number : 15 Question Id : 25498933935 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+With reference to I/O devices of a computer, select the ODD one out.
+Options :
+
+1.  Keyboard
+
+2.  Computer speakers
+
+3.  Mouse
+
+4.  Joystick
+
+Question Number : 16 Question Id : 2549898178 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+is a way of gaining access to a network by imitating a different IP address.
+Options :
+1.  Address spoofing
+2.  App spoofing
+3.  IP spoofing
+4.  Email spoofing
+
+Question Number : 16 Question Id : 2549898178 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+,  IP               
+
+Options :
+
+1.   
+2.   
+3. IP 
+4.   
+
+Question Number : 17 Question Id : 2549899472 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 8/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which printer is considered to be the workhorse of the office because of its capability to quickly print a large number of
+documents
+
+Options :
+
+1.  Inkjet printer
+
+2.  Laser printer
+
+3.  Dot matrix printer
+4.  Chain printer
+
+Question Number : 17 Question Id : 2549899472 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+               flex       
+Options :
+
+1.   
+
+2.   
+
+3.    
+
+4.   
+
+Question Number : 18 Question Id : 2549899485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+A multifunction printer acts as:
+
+Options :
+
+1.  a printer, copier, scanner and fax machine
+2.  a printer only
+
+3.  8 fax machine and a printer
+
+4.  a scanner and a printer
+
+Question Number : 18 Question Id : 2549899485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+         
+Options :
+
+1.  , , WR,     
+2.      
+
+3.  Hog      
+
+4.       
+
+Question Number : 19 Question Id : 2549899595 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+A simulated device whose user interface and API resemble that of a printer driver, but which is not connected to a physical
+computer printer is called:
+
+Options :
+
+1.  a visual display unit
+2.  a universal serial bus
+3.  a virtual printer
+
+4.  a printer driver
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 9/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 19 Question Id : 2549899595 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+       API       ,        
+ ,    
+
+Options :
+
+1.    
+
+2.    
+
+3.   
+
+4.   
+
+Question Number : 20 Question Id : 25498910795 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+All printers come with one or more:
+Options :
+
+1.  soft fonts
+
+2.  hard fonts
+
+3.  virtual fonts
+
+4.  resident fonts
+
+Question Number : 20 Question Id : 25498910795 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+   aes    
+Options :
+
+1.   
+
+2.   
+
+3.   
+
+4.   
+
+Question Number : 21 Question Id : 25498911258 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following refers to the transmission or passage of information or message from a sender through a selected channel to
+a receiver, overcoming barriers that affect its pace
+
+Options :
+
+1.  Printing
+
+2.  Software
+
+3.  Communication
+4.  Modulation
+
+Question Number : 21 Question Id : 25498911258 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+   ,                    
+             
+
+Options :
+
+1.  
+
+2.  
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 10/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+3.  
+4.  
+
+Question Number : 22 Question Id : 25498913404 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+With reference to digital audio and video, MPEG stands for:
+Options :
+
+1.  Multiple Picture Experts Group
+
+2.  Motion Picture Experts Group
+
+3.  Moving Picture Experts Group
+
+4.  Moving Photographs Experts Group
+
+Question Number : 22 Question Id : 25498913404 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+      , MPEG     
+Options :
+
+1.  Multiple Picture Experts Group    
+
+2.  Motion Picture Experts Group    
+
+3.  Moving Picture Experts Group    
+
+4.  Moving Photographs Experts Group    
+
+Question Number : 23 Question Id : 25498913467 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In image compression systems, a quantizer refers to which of the following
+
+Options :
+
+1.  It transforms the original input data into a form that is more amenable to compression.
+
+2.  The codeword length is fixed, irrespective of the probability of occurrence of quantized symbols.
+3.  It assigns a code word, a binary bitstream, to each symbol at the output of the quantizer.
+
+4.  It generates a limited number of symbols that can be used in the representation of the transformed signal.
+
+Question Number : 23 Question Id : 25498913467 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+   ,  quantizer       
+
+Options :
+
+1.                    
+
+2.         ,     
+
+3.    quantizer         ,      
+4.                     
+
+Question Number : 24 Question Id : 2549891 8485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In Windows, with reference to default printer settings, when printing multiple copies, which of the following tabs of printer
+properties enables you to set the order of pages and whether to staple the pages, staple position, etc.
+
+Options :
+1.  Page Setup
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 11/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+2.  Finishing
+3.  Page Source
+4.  Quality
+
+Question Number : 24 Question Id : 25498918485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+ ,      ,      ,            
+             ,  ,     
+
+Options :
+
+1.    Page setup
+
+2.   Finishing
+
+3.    Page source
+
+4.   Quality
+
+Question Number : 25 Question Id : 25498918577 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+With reference to the internet, what does IP stand for
+Options :
+
+1.  Internet Product
+
+2.  Internet Procedure
+
+3.  Internet Protocol
+
+4.  Internet Path
+
+Question Number : 25 Question Id : 25498918577 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+   , 1p     
+Options :
+
+1.  Internet Product  
+
+2.  Internet Procedure  
+3.  Internet Protocol  
+4.  Internet Path  qr
+
+Question Number : 26 Question Id : 25498920743 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following acts as an intermediary between a client and a server and is often used to isolate either the clients or servers
+for security purposes
+
+Options :
+
+1.  Switch
+
+2.  Router
+
+3.  Firewall
+
+4.  Proxy server
+
+Question Number : 26 Question Id : 25498920743 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+   , Farge                  Farge   
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 12/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+       
+Options :
+
+1.  
+
+2.  
+
+3.  
+
+4.   
+
+Question Number : 27 Question Id : 25498922034 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a computer that hosts a website on the Internet
+Options :
+
+1.  Web Server
+
+2.  Web Page
+
+3.  Search Engine
+
+4.  Web browser
+
+Question Number : 27 Question Id : 25498922034 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+               
+Options :
+
+1.   
+
+2.   
+
+3.   
+
+4.   
+
+Question Number : 28 Question Id : 25498924177 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In a FAT 32 file system you CANNOT create
+Options :
+
+1.  a partition larger than 16 GB
+
+2.  a partition larger than 8 GB
+
+3.  a partition larger than 4 GB
+
+4. a partition larger than 32 GB
+
+Question Number : 28 Question Id : 25498924177 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+FAT 32         
+Options :
+
+1.  16 GB    partition
+
+2.  8 GB    partition
+
+3.  4 GB    partition
+
+4.  32 GB    partition
+
+Question Number : 29 Question Id : 25498925405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 13/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Machine language is also known as
+Options :
+1.  High level language
+2.  Low level language
+3.  Object oriented language
+4.  Assembly language
+
+Question Number : 29 Question Id : 25498925405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+         
+Options :
+
+1.    
+
+2.    
+
+3.    
+
+4.   
+
+Question Number : 30 Question Id : 25498925447 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following guided data transmission media uses the concept of reflection of light through a core made up of glass or
+plastic
+
+Options :
+
+1.  Shielded Twisted Pair Cable
+2.  Coaxial Cable
+
+3.  Optical Fibre Cable
+
+4.  Unshielded Twisted Pair Cable
+
+Question Number : 30 Question Id : 25498925447 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+        ,              
+   
+
+Options :
+
+1.  Regs fies  
+
+2.   
+
+3.    
+
+4.   ffs  
+
+Question Number : 31 Question Id : 2549896762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+                   ,   
+Options :
+
+1.  
+
+2.  
+
+3.  
+
+4.  
+
+Question Number : 31 Question Id : 2549896762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 14/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+is a text or an icon that you can click on to get to another website.
+Options :
+1.  A citation
+2.  A hyperlink
+3.  A reference
+4.  An alias
+
+Question Number : 32 Question Id : 2549896958 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+WWW    
+
+Options :
+
+1.     World Work Web
+2.     Wide Work Web
+3.     Wide World Web
+4.    World Wide Web
+
+Question Number : 32 Question Id : 2549896958 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+WWW stands for:
+
+Options :
+
+1. . World Work Web
+
+2.  Wide Work Web
+
+3.  Wide World Web
+
+4.  World Wide Web
+
+Question Number : 33 Question Id : 2549897206 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+              
+Options :
+
+1.  
+
+2. 
+
+3.  
+
+4.  
+
+Question Number : 33 Question Id : 2549897206 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+view in Google Calendar Labs gives a view of the whole year at once.
+Options :
+1.  List
+2. Year
+3.  Personal
+4.  Periodic
+
+Question Number : 34 Question Id : 2549897429 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 15/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+MSWord 2019                      
+  
+
+Options :
+
+1.  CAPITAL
+
+2.  UPPER
+
+3.  ALL CAPS
+
+4.  UPPERCASE
+
+Question Number : 34 Question Id : 2549897429 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+By using which of the following options within the Home tab of MSWord 2019 can you change all selected text into capital
+letters
+
+Options :
+
+1.  CAPITAL
+
+2.  UPPER
+
+3.  ALL CAPS
+4.  UPPERCASE
+
+Question Number : 35 Question Id : 2549897930 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+     CC     81    
+Options :
+
+1.    Carbon Copy
+
+2.    Carbon Core
+
+3.    Carbon Care
+
+4.    Core Copy
+
+Question Number : 35 Question Id : 2549897930 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+While sending an email there is a feature called CC. What is its full form
+Options :
+
+1.  Carbon Copy
+
+2.  Carbon Core
+
+3.  Carbon Care
+
+4.  Core Copy
+
+Question Number : 36 Question Id : 25498910496 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+                 
+Options :
+
+1.  SMTP
+
+2.  ICMP
+
+3.  HTTP
+
+4.  ARP
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 16/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 36 Question Id : 25498910496 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Many email systems use protocol to send messages from one server to another server.
+Options :
+
+1.  SMTP
+
+2.  ICMP
+
+3.  HTTP
+
+4.  ARP
+
+Question Number : 37 Question Id : 25498910535 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+       , MSWord               
+ ,     
+
+Options :
+
+1.  
+2.  
+
+3.  
+
+4.  
+
+Question Number : 37 Question Id : 25498910535 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In order to provide the correct preview of a document being printed, MSWord needs to know some details about the paper youre
+using such as the page and orientation.
+
+Options :
+
+1.  margin
+2.  colour
+3.  break
+
+4.  size
+
+Question Number : 38 Question Id : 25498910570 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+                         
+
+a RITE 
+b  
+    
+
+d      
+Options :
+
+1.b,a dc
+
+2. b 8, 0, 0
+
+3. bd ac
+
+4.  8, bd c
+
+Question Number : 38 Question Id : 25498910570 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 17141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+Select the option that arranges the given steps to create a first line indent in correct order.
+
+a at the beginning of the first line
+b place your cursor
+
+c press the tab key
+
+d of the paragraph and
+
+Options :
+
+1.  , 8, dc
+2. 0, 8, 0, 0
+3. bd ac
+4.  8, bd c
+
+Question Number : 39 Question Id : 25498910590 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Select the option that arranges the given steps of a sequence to apply an indent in MSWord 2016 in the correct order.
+
+a Click on the very bottom of the indent marker
+b Hold the rectangle
+
+ To change the left indent
+
+d Drag it to a new position
+
+Options :
+
+1.  , 8, 0, 6.
+2.  0, 8, , 0
+3. 0, 8, c,d
+4.  pd ac
+
+Question Number : 39 Question Id : 25498910590 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+MSWord 2016                       
+
+a        
+b   GIs 
+
+       
+
+        
+Options :
+
+1. , 8, 0, 6.
+
+2. 0, 8, , 
+
+3. 0, 8, ,
+
+4.  bd, 8, 0
+
+Question Number : 40 Question Id : 25498910619 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MSExcel                          
+     
+
+Options :
+
+1.    
+
+2.   
+
+3.   
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 18/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+4.    
+
+Question Number : 40 Question Id : 25498910619 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following features of MSExcel is used to join the selected cells into one larger cell and centres the content in the new
+cell
+
+Options :
+
+1.  Merge and Center
+
+2.  Wrap text
+
+3.  Conditional formatting
+4.  Format as table
+
+Question Number : 41 Question Id : 25498910717 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following commands enables you to make multiple changes in an MSWord 2010 document at once
+Options :
+
+1.  Drop cap
+
+2.  Find
+
+3.  Replace all
+
+4.  Copy
+
+Question Number : 41 Question Id : 25498910717 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MSWord 2010                       
+Options :
+
+1.   
+
+2.  BES
+
+3.   
+
+4.  
+
+Question Number : 42 Question Id : 25498911480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+        MSWord 2016      MS         
+   
+
+Options :
+
+1.       
+
+2.       
+
+3.         
+
+4.         
+
+Question Number : 42 Question Id : 25498911480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following check box options is avaialble under the catagory When correcting spelling in MS Office programs,in
+proofing options of MSWord 2016.
+
+Options :
+1.  Ignore words in UPPERCASE
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 19/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+2.  Ignore words in lowercase
+3.  Ignore words in UPPERCASE and symbols
+
+4.  Ignore words in lowercase and symbols
+
+Question Number : 43 Question Id : 25498911876 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+     MSWord 2019          
+Options :
+1.   
+2.  
+3.    
+4.   
+
+Question Number : 43 Question Id : 25498911876 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Turning off does NOT eliminate the tracked changes that are already present in your MSWord 2019 document.
+Options :
+
+1.  Track changes
+
+2.  Balloons
+
+3.  Show markup
+
+4.  Reviewing pane
+
+Question Number : 44 Question Id : 25498912485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+     MSWord 2019       
+Options :
+
+1.             
+
+2.           
+
+3.              
+
+4.              
+
+Question Number : 44 Question Id : 2549891 2485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is the most appropriate definition of a footer in MSWord 2019
+Options :
+
+1.  115 a section of a document that appears in the top margin.
+
+2.  Itis an option that is available in the Mailings tab.
+
+3.  tis a section of a document that appears in the bottom margin.
+
+4.  115 a section of a document that appears in the left margin.
+
+Question Number : 45 Question Id : 25498913684 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+        
+Options :
+
+1.  
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 20/41
+
+03/03/2023, 17:54 https://g01.tcsion.com/CAEviewHtmIPDFAction.action
+2.   
+3.   
+4.   
+
+Question Number : 45 Question Id : 25498913684 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+The electronic pages seen on the internet are known as .
+Options :
+
+1.  web pages
+
+2.  printed pages
+
+3.  hard copies
+
+4.  colour pages
+
+Question Number : 46 Question Id : 25498919191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MSWord 2016 ,  ,      merging    ,       
+ 
+
+Options :
+
+1.  
+
+2.  gq
+
+3.  
+
+4.  
+
+Question Number : 46 Question Id : 25498919191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+There isare  options under Select Recipients, which is the third step of mail merging of letters in MSWord 2016.
+Options :
+
+1.  one
+
+2.  two
+
+3.  three
+
+4.  four
+
+Question Number : 47 Question Id : 25498923911 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MSWord 2019               
+Options :
+
+1L. Cul1
+
+2.  Curl B
+
+3. CtrlU
+
+4.  Ctrl 27
+
+Question Number : 47 Question Id : 25498923911 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Which of the following keyboard shortcuts is used to make text italic in MSWord 2019
+Options :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 21/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+1L. Cul1
+2.  CulB
+3.  CtrlU
+4.  Ctrl 27
+
+Question Number : 48 Question Id : 25498925300 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS word 2016               
+Options :
+
+1.  
+
+2.  FT
+
+3.  gfe
+
+4.  
+
+Question Number : 48 Question Id : 25498925300 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following options of File Menu will you choose to close a file in MSWord 2016
+Options :
+
+1.  Quit
+
+2.  Close
+
+3.  Exit
+
+4.  Return
+
+Question Number : 49 Question Id : 25498925327 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What is the decimal equivalent of 10
+Options :
+
+1.416
+
+2.  2
+
+3.1
+
+4.  160
+
+Question Number : 49 Question Id : 25498925327 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+   10,     
+Options :
+
+1. 16
+
+2.  2
+
+3.  1
+
+4.  160
+
+Question Number : 50 Question Id : 25498925480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+             
+
+Options :
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 22/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+1.                 
+2.        ,         
+3.               
+
+4.              
+
+Question Number : 50 Question Id : 25498925480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is true with reference to Versioning of files
+
+Options :
+
+1.  Itrefers to saving old copies of your files with new names.
+
+2. . When creating new versions of your files, new files can have the same name.
+3.  Versioning will not help in retrieving a specific version of older files.
+
+4.  It refers to saving new copies of your file.
+
+Question Number : 51 Question Id : 25498925504 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+           
+Options :
+
+1.       
+
+2.     
+
+3.     
+
+4.       
+
+Question Number : 51 Question Id : 25498925504 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is the most common position of subscripted text
+Options :
+
+1.  Slightly below the baseline
+
+2.  Above the mid line
+
+3.  Above the top line
+
+4.  Slightly above the baseline
+
+Question Number : 52 Question Id : 25498933751 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+The is comprised of hyperlinks linking trillions of pages and files to one another.
+Options :
+
+1.  World Wide Web
+
+2.  Web Server
+
+3.  Internet
+
+4.  WAN
+
+Question Number : 52 Question Id : 25498933751 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+           GIR   
+
+Options :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 23/141
+03/03/2023, 17:54
+
+1.    
+2.   
+
+https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+3.  
+4.  WAN
+
+READING COMPREHENSION
+Section Id : 2549897005
+Section Number : 2
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+Number of Questions to be attempted : 1
+Section Marks : 5
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897046
+Question Shuffling Allowed : No
+Is Section Default : null
+
+Question Id : 25498921187 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group
+Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time :
+N.A Minimum Instruction Time : 0
+
+Question Numbers : 53 to 57
+
+Read the given passage and answer the questions.
+
+A doll
+When a little girl cuddles a favourite doll in her arms, she is holding a toy which has been loved by little girls through the centuries.
+
+A doll is a model of a human being, often used as a toy for children. Dolls have traditionally been used in magic and religious
+rituals throughout the world. The earliest dolls were made from available materials such as clay, stone, wood, bone, ivory, leather
+or wax. Archaeological evidence places dolls as the oldest known toy. Dolls that are thousands of years old have been found in
+Egyptian tombs. Some were made of baked clay; others were brightly painted wooden dolls with long hair made of strings of clay
+beads. The early Roman and Greek books too make a mention of dolls. In Rome, dolls were made of clay, wood or ivory. Dolls
+have been found in the graves of Roman children. Like children today, the younger members of Roman civilisation would dress
+their dolls according to the latest trends in fashion. When Greek and Roman girls got married they would dedicate their doll to a
+goddess. Rag dolls are traditionally homemade from spare scraps of cloth material. Roman rag dolls have been found dating back
+to 300 BC. Every suitable material has gone into doll making. But, from the earliest times, wood has been the favourite material
+from which were carved a toy baby or a small figure of a boy, a girl, a man or a woman. Germany has been famous for carved
+wooden dolls since the 15th century. In China, dolls were made from papiermach. In early America, children played with dolls
+made of corn husk.
+
+Nowadays, all kinds of dolls are available. There are mechanical dolls that walk and talk. They squeak out the words Papa or
+Mama as they walk around the floor with outstretched arms. A very popular doll with girls today is the Barbie doll. It is a model
+of a very pretty teenager with a perfect figure and an attractive face. It has blond or dark hair. This doll sometimes comes with
+many accessories such as a wardrobe consisting of dresses for her formal wear, swimming, wedding etc.
+
+Sub questions
+
+Question Number : 53 Question Id : 25498921188 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Traditionally, dolls were used throughout the world for:
+Options :
+
+1.  little girls to play
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 24/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+2.  burying with the dead
+3.  giving as wedding gifts
+
+4.  magic and religious rituals
+
+Question Number : 54 Question Id : 25498921189 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+What did the Roman and Greek girls do to their dolls when they got married
+Options :
+
+1.  They dedicated their dolls to a goddess.
+
+2.  They dressed them up according to the latest trends in fashion.
+
+3.  They buried them in the graves of children.
+
+4.  They gave them away to little girls.
+
+Question Number : 55 Question Id : 25498921190 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+What has been the favourite material for making dolls over the years
+Options :
+
+1.  Clay
+
+2. Wood
+
+3.  Rags
+
+4.  Wax
+
+Question Number : 56 Question Id : 25498921191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In which country would one have found dolls made of corn husk
+Options :
+
+1.  China
+
+2.  Greece
+
+3.  America
+
+4.  Egypt
+
+Question Number : 57 Question Id : 25498921192 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following statements is NOT true of the dolls
+Options :
+
+1.  Dolls have been loved by little girls for centuries.
+
+2. The Egyptian dolls had long hair made of wood.
+
+3.  Barbie dolls are very popular with girls today.
+
+4.  Mechanical dolls can walk and talk.
+
+Question Id : 25498921187 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group
+Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time :
+N.A Minimum Instruction Time : 0
+
+Question Numbers : 53 to 57
+
+            
+
+
+           ,              
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 25/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+   
+
+     ,                   
+                   ,   , ,
+, , , ,                   
+FHA      a      ;  ,               
+              ,  ,        
+            ,              
+                        
+           300         ad     
+   ,         ,        
+,  ,         15            
+    papiermach     ,     Had        
+
+,                        
+               ,        
+                        
+         ,   ,      
+
+Sub questions
+
+Question Number : 53 Question Id : 25498921188 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+            
+Options :
+
+1.       
+
+2.       
+
+3.          
+
+4.       
+
+Question Number : 54 Question Id : 25498921189 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+               
+Options :
+
+1.         
+
+2.          
+
+3.     Hell   
+
+4.         off
+
+Question Number : 55 Question Id : 25498921190 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+          
+Options :
+
+1.  
+
+2. 
+
+3.  
+
+4. 
+
+Question Number : 56 Question Id : 25498921191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 26/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+          
+Options :
+
+1.  
+
+2.  
+
+3.  
+
+4.  
+
+Question Number : 57 Question Id : 25498921192 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+          
+Options :
+
+1.            
+2.           
+
+3.          
+
+4.           
+
+QUANTITATIVE APTITUDE
+
+Section Id : 2549897006
+Section Number : 3
+
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 6
+
+Number of Questions to be attempted : 6
+
+Section Marks : 6
+
+Display Number Panel : Yes
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897047
+Question Shuffling Allowed : Yes
+
+Is Section Default : null
+
+Question Number : 58 Question Id : 25498914319 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What value should come in place of the question mark  in the following expression
+4444  40  645  25  3991  26 
+
+Options :
+
+1. 2804
+2.92904
+3. 2954
+4.  2854
+
+Question Number : 58 Question Id : 25498914319 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action
+
+27141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+        
+4444  40  645  28  3991  26 
+
+Options :
+1.  280.4
+
+2. 290.4
+3.  295.4
+
+4.  2854
+
+Question Number : 59 Question Id : 25498928807 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+When 30 of one number is subtracted from the second number, the result is fourfifth of the second number. What is the ratio of
+the first number to the second number
+
+Options :
+1.4:7
+2. 3:2
+3.2:5
+4.42:3
+
+Question Number : 59 Question Id : 25498928807 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+   30        ,               
+
+     
+Options :
+
+1,  4:7
+
+2  3:2
+
+3.  2:5
+
+42:3
+
+Question Number : 60 Question Id : 25498928852 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What approximate value should come in place of the question mark  in the following expression
+
+You are not expected to calculate the exact value.
+
+74 of 366  12.6 of 317 7
+Options :
+1.  320
+2.  280
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 28/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+3.  350
+4.9310
+
+Question Number : 60 Question Id : 25498928852 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+     7            
+   
+
+366  74  317  12.6  
+Options :
+1.  320
+
+5  280
+3.  350
+
+4 wv 310
+
+Question Number : 61 Question Id : 25498929094 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+The value of the question mark 7 in the following expression is:
+84 of 624  127X7
+
+Options :
+
+1.  63
+
+2.  6.24
+
+3. 634
+4.  6.56
+
+Question Number : 61 Question Id : 25498929094 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+         
+624  84  12  x 7
+
+Options :
+1.  63
+
+, v 6.24
+3.  6.34
+
+4.  6.56
+
+Question Number : 62 Question Id : 25498929370 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 29/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Correct Marks : 1 Wrong Marks : 0
+
+A single discount equivalent to two successive discounts of 20 and 10 is:
+Options :
+
+1.  30
+
+2.  29
+
+3.  28
+
+4.  27
+
+Question Number : 62 Question Id : 25498929370 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+    20  10   FART    
+
+Options :
+1.  30
+
+2.  29
+3. 28
+
+4.  27
+
+Question Number : 63 Question Id : 25498929622 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+If  p  where p, q and r are positive integers, then the value of p  2q  37 is:
+
+
+qr
+T
+Options :
+1.7
+2.  11
+3.419
+4.  21
+
+Question Number : 63 Question Id : 25498929622 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+  p   ,  p, q  r   ,  p  2q  3r    
+  
+g
+
+Options :
+1.8 7
+
+2.  11
+
+3.19
+
+4.  21
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 30/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+GENERAL MENTAL ABILITY AND REASONING
+
+Section Id : 2549897007
+Section Number : 4
+
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 6
+
+Number of Questions to be attempted : 6
+
+Section Marks : 6
+
+Display Number Panel : Yes
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897048
+Question Shuffling Allowed : Yes
+
+Is Section Default : null
+
+Question Number : 64 Question Id : 25498910059 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+Among the following words, which one will come second if they are arranged as per their order in an English dictionary
+
+Options :
+
+1.  Donation
+
+2.  Donate
+
+3.  Donkey
+
+4.  Donator
+
+Question Number : 64 Question Id : 25498910059 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+                  ,       
+
+
+Options :
+
+1.  Donation
+
+2.  Donate
+
+3.  Donkey
+
+4.  Donator
+
+Question Number : 65 Question Id : 25498914078 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+Unscramble the letters in the words given in options, and find the odd one out.
+
+Options :
+
+1.  ATES
+
+2.  EWSN
+
+3.  HONRT
+
+4.  EWTS
+
+Question Number : 65 Question Id : 25498914078 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 31/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+        ,     
+Options :
+1.  ATES
+2.  EWSN
+3.  HONRT
+4.  EWTS
+
+Question Number : 66 Question Id : 25498919666 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+14: 9: : 26 : 
+Options :
+1.  12
+2. 13
+3.15
+4.  31
+
+Question Number : 66 Question Id : 25498919666 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+                     81
+
+14:9::26:7
+Options :
+1.  12
+2. 13
+3.415
+4.  31
+
+Question Number : 67 Question Id : 25498919830 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+Options :
+
+1.  Shoulder
+
+2.  Foot
+
+3.  Elbow
+
+4.  Arm
+
+Question Number : 67 Question Id : 25498919830 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+                            
+     
+
+Options :
+
+1.  
+
+2.  
+
+3.  
+
+4.  
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 32/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 68 Question Id : 25498919832 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+Options :
+
+1.  Book
+
+2.  Paper
+
+3.  Pencil
+
+4.  Pen
+
+Question Number : 68 Question Id : 25498919832 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+                            
+     
+
+Options :
+
+1.  
+
+2.  
+
+3.  
+
+4.  
+
+Question Number : 69 Question Id : 25498927369 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Find the number of triangles in the given figure.
+
+LX
+
+Options :
+1. 15
+2.  16
+3.917
+4.  18
+
+Question Number : 69 Question Id : 25498927369 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+        
+
+Options :
+1. 15
+2.  16
+3.417
+4.  18
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 33/41
+03/03/2023, 17:54
+
+https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+GENERAL AWARENESS
+Section Id : 2549897008
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 6
+Number of Questions to be attempted : 6
+Section Marks : 6
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897049
+Question Shuffling Allowed : Yes
+Is Section Default : null
+
+Question Number : 70 Question Id : 2549895296 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What does the word Aryan mean
+Options :
+
+1.  The noble one
+
+2.  Cultivator
+
+3.  Pastoral society
+
+4.  Brahmachari
+
+Question Number : 70 Question Id : 2549895296 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+     
+
+Options :
+
+1.  
+
+2.  
+
+3.   
+
+4.  
+
+Question Number : 71 Question Id : 25498912523 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Identify the product belonging to the organic waste category among the following.
+Options :
+
+1.  Old Mobile phone
+
+2.  Straw
+
+3.  Battery
+
+4.  Plastic cups
+
+Question Number : 71 Question Id : 25498912523 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 34/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+            
+Options :
+1.    
+2.  
+3.  
+4.    
+
+Question Number : 72 Question Id : 25498929951 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Which of the following statements is/are correct
+
+1 Kaolinite is weathered silicate clay.
+2 The kaolinisation process occurs due to hydrothermal alteration of feldspar.
+
+Options :
+
+1.  Only 1
+
+2.  Only 2
+
+3. Both 1 and 2
+4.  Neither 1 nor 2
+
+Question Number : 72 Question Id : 25498929951 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+    /   gre
+1.   oe    
+2. kaolinisation         
+Options :
+1.   1
+2.   2
+3.  1  2 
+
+4.   1    2
+
+Question Number : 73 Question Id : 25498932104 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Match the columns:
+
+Persons Well known as
+A. Amrita SherGil 1. Dancer
+B. Bhimsen Joshi 2. Painter
+C. Rukmini Devi Arundale  3. Poet
+D. Suryakant Tripathi Nirala  4. Singer
+
+Options :
+
+1.LA2B1,C4D3
+2A2B4C1,D3
+3.A3B1,C4,D2
+4 A3B4C1,D2
+
+Question Number : 73 Question Id : 25498932104 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 35/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Correct Marks : 1 Wrong Marks : 0
+
+   :
+
+       
+A.   1. 
+8.   2. 
+C.     3. 
+D.  Farr   4. 
+
+Options :
+
+1.A2B1,C4D3
+2A2B4C1,D3
+3.A3B1,C4,D2
+4.  A 3B4C1,D2
+
+Question Number : 74 Question Id : 25498935796 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a natural mosquito repellent
+Options :
+
+1.  Lavender Oil
+
+2.  Citronella Oil
+
+3.  Tea Tree Oil
+
+4.  Patchouli Oil
+
+Question Number : 74 Question Id : 25498935796 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+          
+Options :
+
+1.    
+
+2.    
+
+3.      
+
+4.    
+
+Question Number : 75 Question Id : 25498937113 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following Indian cities is called the Sugar Bowl of India
+Options :
+
+1.  Muzaffarnagar
+
+2.  Dhanbad
+
+3.  Balasore
+
+4.  Amravati
+
+Question Number : 75 Question Id : 25498937113 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+             
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 36/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Options :
+1.  
+2.  
+3.  
+4.  
+English Mock
+Group Number : 2
+Group Id : 2549894447
+Group Maximum Duration : 5
+Group Minimum Duration : 5
+Show Attended Group : No
+Edit Attended Group : No
+Break time : 1
+Mandatory Break time : Yes
+Group Marks : 0
+Is this Group for Examiner : No
+Examiner permission : Cant View
+Show Progress Bar : No
+English Mock
+Section Id : 2549897009
+Section Number : 1
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+Number of Questions to be attempted : 1
+Section Marks : 0
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897050
+Question Shuffling Allowed : No
+Is Section Default : Yes
+
+Question Number : 76 Question Id : 25498941285 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+Summer camps are supervised camps conducted to entertain as well as equip students with various life skills such as
+teamwork, socializing, decision making, independent and responsible living and more. It aids the overall development of a
+child and children have fun during this process as they get to explore new arenas.
+
+Restricted/ Unrestricted : Unrestricted
+Paragraph Display : Yes
+
+Keyboard Layout : Inscript
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action
+
+37/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+English Actual
+
+Group Number : 3
+
+Group Id : 2549894448
+Group Maximum Duration : 15
+
+Group Minimum Duration : 15
+
+Show Attended Group : No
+
+Edit Attended Group : No
+
+Break time : 3
+Mandatory Break time : Yes
+Group Marks : 0
+
+Is this Group for Examiner : No
+Examiner permission : Cant View
+Show Progress Bar : No
+
+English Typing Test
+
+Section Id : 2549897010
+Section Number : 1
+
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+
+Number of Questions to be attempted : 1
+
+Section Marks : 0
+
+Display Number Panel : Yes
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897051
+Question Shuffling Allowed : No
+
+Is Section Default : Yes
+
+Question Number : 77 Question Id : 25498937914 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+Plastic has been around for nearly a century finding application across various fields and industries. In fact if we take a
+look around us we can find at least one or two items made entirely of plastic. For a short period of time low weight plastic
+bags were considered as the most used product in the world. Customers were given these lightweight plastic bags when they
+purchased a product from any vendor. They provided a convenient and hygienic way of transporting goods. Moreover since
+these bags were extremely cheap to manufacture they were given free of cost to the customers. However the environmental
+implications of plastic can be observed now. Lightweight plastic bags were traditionally made of low density poly ethylene
+plastic. These plastic items were primarily produced using petroleum or natural gas which is non renewable resources. It
+also became increasingly difficult to dispose of as it was not biodegradable. Over time these plastics quickly accumulated in
+landfills thereby reducing its efficiency. One of the solutions proposed for resolving this problem is recycling. However it is
+not widely implemented especially in India. As stated previously the production of plastic uses non renewable resources like
+coal and natural gas. This directly contributes to global warming and an increased carbon footprint. Using non reusable
+resources directly contributes to the production of greenhouse gases which can change the dynamics of the planet. In the
+long run this can have disastrous consequences on our planet like extreme weather patterns and instability in the
+ecosystem. Humans will be drastically affected if the ecosystem becomes unbalanced. There would be widespread shortages
+of food which can directly affect an economy. Continued production and usage of plastic will only worsen the situation. The
+biggest problem of plastics was its inability to decompose. Currently charges and bans are the two solutions to curb the
+usage of plastic. Charges ensure that the cost of the plastic bag is to be borne by the consumers. This not only discourages
+the use of plastic bags but also generates an additional source of income. The ban method outright bans the use of plastic
+bags. However this method is rather hard to implement in practice. A country like India does not have the required
+resources to strictly enforce the ban. Hence this method may not be as viable as the latter. Another method is to recycle
+plastic bags however according to recent statistics just five percent of plastic bags return to recycling facilities. The rest end
+up on the streets where they become litter. Plastic bags that are under twenty micrometre in thickness have been banned
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 38/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+since years but the enforcement of the ban is almost negligible. The primary reason these plastic bags got banned was due
+to the fact that cows mistake these bags for food and they end up eating it them. Consequently this blocks up their intestines
+and results in death. Today the repercussions of plastic were better understood than a decade ago. Hence many countries
+have opted to outright ban plastic or at least recycle existing plastic. This act has led to reduced carbon emissions as well as
+addressing many other related problems. New discoveries and alternatives to tackle the problem of plastics will pave the
+way for a new generation in a much cleaner and greener planet.
+
+Restricted/ Unrestricted : Unrestricted
+Paragraph Display : Yes
+
+Keyboard Layout : Inscript
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+Hindi Mock
+Group Number : 4
+Group Id : 2549894449
+Group Maximum Duration : 10
+Group Minimum Duration : 10
+Show Attended Group : No
+Edit Attended Group : No
+Break time : 5
+Mandatory Break time : Yes
+Group Marks : 0
+Is this Group for Examiner : No
+Examiner permission : Cant View
+Show Progress Bar : No
+Hindi Mock
+Section Id : 2549897011
+Section Number : 1
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+Number of Questions to be attempted : 1
+Section Marks : 0
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897052
+Question Shuffling Allowed : No
+Is Section Default : Yes
+
+Question Number : 78 Question Id : 25498944390 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+    ,                   
+                gga       
+Restricted/ Unrestricted : Unrestricted
+
+Paragraph Display : Yes
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 39/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Keyboard Layout : Remington
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+Hindi Actual
+Group Number : 5
+Group Id : 2549894450
+Group Maximum Duration : 15
+Group Minimum Duration : 15
+Show Attended Group : No
+Edit Attended Group : No
+Break time : 0
+Group Marks : 0
+Is this Group for Examiner : No
+Examiner permission : Cant View
+Show Progress Bar : No
+
+Hindi Typing Test
+
+Section Id : 2549897012
+
+Section Number :
+
+1
+
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+
+Number of Questions to be attempted : 1
+
+Section Marks : 0
+
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+SubSection Number : 1
+SubSection Id : 2549897053
+Question Shuffling Allowed : No
+
+Is Section Default : Yes
+
+Question Number : 79 Question Id : 25498944462 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+                      
+                     
+                      
+
+              1           
+                         
+                     
+           GRE          
+                       
+              Bukit       
+                      
+                       
+                          
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 40/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+             of gw           
+
+               gr         
+
+                      
+
+                      
+
+                      
+
+                      
+
+                          
+
+                       
+
+                       
+
+                      
+
+                      
+
+
+Restricted/ Unrestricted : Unrestricted
+
+Paragraph Display : Yes
+
+Keyboard Layout : Remington
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 41/41

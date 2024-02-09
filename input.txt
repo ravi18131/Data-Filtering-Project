@@ -1,0 +1,2969 @@
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Print
+Computer Proficiency Certification Test
+
+Notations :
+1.Options shown in green color and with ¥ icon are correct.
+
+2.0Options shown in red color and with है icon are incorrect.
+
+ComputerProficiencyCertificationTest 2nd Mar 2023 Shift
+
+Question Paper Name : 1
+Subject Name : Computer Proficiency Certification Test
+Creation Date : 2023-03-02 13:50:32
+Duration : 120
+Total Marks : 75
+Display Marks: Yes
+Share Answer Key With Delivery Engine : Yes
+Actual Answer Key : Yes
+Calculator : None
+Magnifying Glass Required? : No
+Ruler Required? : No
+Eraser Required? : No
+Scratch Pad Required? : No
+Rough Sketch/Notepad Required? : No
+Protractor Required? : No
+Show Watermark on Console? : No
+Highlighter : No
+Auto Save on Console? Yes
+Change Font Color : No
+Change Background Color : No
+Change Theme : No
+Help Button : No
+Show Reports : No
+Show Progress Bar : No
+
+CPCT
+
+Group Number : 1
+
+Group Id : 2549894446
+Group Maximum Duration : 75
+
+Group Minimum Duration : 75
+
+Show Attended Group? : No
+
+Edit Attended Group? : No
+
+Break time : 1
+Mandatory Break time : Yes
+Group Marks : 75
+
+Is this Group for Examiner? : No
+Examiner permission : Cant View
+Show Progress Bar? : No
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 1/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+COMPUTER PROFICIENCY AND PROFICIENCY IN GENERAL IT SKILLS
+
+AND NETWORKING
+Section Id : 2549897004
+Section Number : 1
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 52
+Number of Questions to be attempted : 52
+Section Marks : 52
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897045
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 1 Question Id : 2549896396 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+किसी प्रोग्राम, फ़ीचर या फ़ाइल का एक छोटा चित्रात्मक निरूपण निम्न में से क्या कहलाता है?
+Options :
+
+1. * डेस्कटॉप
+
+2. % ड्राईवर
+
+3. * स्क्रीन सेवर
+
+4. आइकॉन
+
+Question Number : 1 Question Id : 2549896396 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a small graphical representation of a program, feature or file?
+Options :
+
+1. ¥ Desktop
+
+2. ¥ Driver
+
+3. ¥ Screensaver
+
+4. ¥ Icon
+
+Question Number : 2 Question Id : 2549897786 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MUR की-बोर्ड के संदर्भ में निम्न में से कौन सा कथन सत्य है?
+
+Options :
+
+1. ¢ आभासी की-बोर्ड एक सॉफ्टवेयर है जिसका उपयोग मानक कीबोर्ड की तरह ही किया जाता है।
+2. # आभासी की-बोर्ड केवल डेस्क टॉप कंप्यूटर में प्रदर्शित होते हैं।
+
+3. % Gboard माइक्रोसॉफ्ट द्वारा बनाया गया एक आभासी की-बोर्ड है
+
+4. % आभासी की-बोर्ड में अक्षर और विराम चिह्न नहीं होते हैं।
+
+Question Number : 2 Question Id : 2549897786 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 2/141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Which of the following statements with reference to virtual keyboard is true?
+Options :
+1. % A virtual keyboard is a software that is used to emulate a standard keyboard.
+2. ¥ Virtual keyboards are featured only in desktop computers.
+3. है Gboard is a virtual keyboard developed by Microsoft.
+
+4. % Virtual keyboards do not include letters and punctuation symbols.
+
+Question Number : 3 Question Id : 2549898405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS Excel में कौन सा फंक्शन उनके माध्य से डेटा बिंदुओं के पूर्ण विचलन का औसत देता है?
+Options :
+
+1. # ABSDEV फंक्शन
+
+2. है DEVABS फंक्शन
+
+3. + AVEDEV फंक्शन
+
+4. है. ADEVS फंक्शन
+
+Question Number : 3 Question Id : 2549898405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following functions returns the average of the absolute deviations of data points from their mean in MS-Excel?
+Options :
+
+1. है ABSDEV function
+
+2. ¥ DEVABS function
+
+3. ¥ AVEDEV function
+
+4. ¥ ADEVS function
+
+Question Number : 4 Question Id : 2549899141 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+If you are using a Linux Operating System, which of the following symbol represents the top-level directory in the operating
+system?
+
+Options :
+1. %
+2.% @
+3.% 4
+4.9
+
+Question Number : 4 Question Id : 2549899141 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+यदि आप लिनक्स ऑपरेटिंग सिस्टम का उपयोग कर रहे हैं, तो निम्नलिखित में से कौन सा प्रतीक (symbol) ऑपरेटिंग सिस्टम में शीर्ष-स्तरीय
+निर्देशिका का प्रतिनिधित्व करता है?
+
+Options :
+1. %
+
+2.% @
+
+3. % 4
+
+4.9
+
+Question Number : 5 Question Id : 25498911736 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 3/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+पहली पीढ़ी के कंप्यूटर निम्न में से किस तकनीक पर आधारित थे?
+Options :
+1. % ट्रांजिस्टर
+2. ९ वैक्यूम टयूब
+3. # इंटीग्रेटेड सर्किट
+4. # माइक्रोप्रोसेसर
+
+Question Number : 5 Question Id : 25498911736 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+First generation computers are based on which of the following technologies?
+Options :
+
+1. है Transistor
+
+2. % Vacuum tube
+
+3. ¥ Integrated circuit
+
+4. # Microprocessor
+
+Question Number : 6 Question Id : 25498911762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन सा प्रोग्राम मुख्य रूप से ब्रोशर, पत्र, सीखने की गतिविधियों, प्रश्नो्तरी, परीक्षण और छात्रों के होमवर्क असाइनमेंट जैसे
+डाक्यूमेंट्स बनाने के लिए उपयोग किया जाता है?
+
+Options :
+
+1. # प्रेजेंटेशन
+
+2. # वर्ड प्रोसेसर
+
+3. # स्प्रेडशीट
+
+4. ® डेटाबेस
+
+Question Number : 6 Question Id : 25498911762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a program used mainly for creating documents such as brochures, letters, learning activities, quizzes,
+tests and students’ homework assignments?
+
+Options :
+
+1. # Presentation
+
+2. % Word processor
+3. ¥ Spreadsheet
+
+4. ¥ Database
+
+Question Number : 7 Question Id : 25498923895 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्न में से कौन सी भाषा कंप्यूटर द्वारा समझी और निष्पादित की जाती है?
+Options :
+
+1. ४ मशीनी भाषा
+
+2.  मध्यम-स्तरीय भाषा
+
+3. # उच्च स्तरीय भाषा
+
+4. % असेंबली भाषा
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 4/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 7 Question Id : 25498923895 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following languages is understood and executed by a computer?
+Options :
+
+1. % Machine language
+
+2. % Middle-level language
+
+3. ¥ High-level language
+
+4. ¥ Assembly language
+
+Question Number : 8 Question Id : 25498929727 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+को पराबैंगनी प्रकाश की आवश्यकता नहीं होती है लेकिन उच्च वोल्टेज चाहिए होता है और इसे पूरे सर्किट पर नहीं बल्कि प्रत्येक मेमोरी
+सेल में अलग से आरोपित किया जा सकता है।
+
+Options :
+
+1. ® प्रोग्रामेबल ds ओनली मेमोरी
+
+2. *# इरेजेबल प्रोग्रामेबल रीड ओनली मेमोरी
+
+3. ४ विद्युत रूप से इरेज़ेबल प्रोग्रामेबल रीड ओनली मेमोरी
+
+4. # फ्लैश मेमोरी
+
+Question Number : 8 Question Id : 25498929727 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+does NOT require ultraviolet light but higher voltage, which can be applied to each memory cell separately instead of
+whole circuit.
+
+Options :
+
+1. है. Programmable Read Only Memory
+
+2. % Erasable Programmable Read Only Memory
+
+3. ¢ Electrically Erasable Programmable Read Only Memory
+4. ¥ Flash memory
+
+Question Number : 9 Question Id : 25498929891 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+बारकोड की अंतिम संख्या को चेक डिजिट कहा जाता है। यह डिजिट किस बात की जांच करती है?
+Options :
+
+1. # कि बारकोड सुरक्षित है या नहीं
+
+2. ¢ कि बारकोड सही ढंग से स्कैन किया गया है या नहीं
+
+3. # कि बारकोड गोपनीय है या नहीं
+
+4. # कि बारकोड संशोधित हुआ है या नहीं
+
+Question Number : 9 Question Id : 25498929891 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+The last digit in a barcode is called a check digit. This digit helps the scanner know if the barcode:
+Options :
+1. मै is secure or not
+2. was scanned correctly or not
+3. ¥ is confidential or not
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 5/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+4. ¥ was modified or not
+
+Question Number : 10 Question Id : 25498929973 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+बायोमेट्रिक स्पूफिंग एक ऐसी विधि है जिसके तहत किसी व्यक्ति के/की का एक नकली ढांचा तैयार किया जाता है ताकि बायोमेट्रिक
+THR को भ्रमित किया जा सके।
+
+Options :
+
+1. ४ बायोमेट्रिक विशेषताओं
+2. % पहचान प्रमाणपत्र
+
+3. # आधार कार्ड
+
+4. * पैन कार्ड
+
+Question Number : 10 Question Id : 25498929973 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Biometric spoofing is a method by which a counterfeit mould emulates of an individual to confuse the biometric scanner.
+Options :
+
+1. # biometric attributes
+
+2. ¥ an identity card
+
+3. ® an Aadhaar card
+
+4. ¥ a PAN card
+
+Question Number : 11 Question Id : 25498931264 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+(A/An) USB port is used to connect like cameras and scanners to a computer.
+Options :
+
+1. ¢ peripherals
+
+2. # system softwares
+
+3. ® bottlenecks
+
+4. % application softwares
+
+Question Number : 11 Question Id : 25498931264 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+(A/An) USB पोर्ट का उपयोग जैसे कैमरे और स्कैनर को कंप्यूटर से कनेक्ट करने के लिए किया जाता है
+Options :
+
+1. + बाह्म उपकरणों (peripherals)
+
+2. # सिस्टम सॉफ्टवेयर (system softwares)
+
+3. # बाधाओं (bottlenecks)
+
+4. ® अनुप्रयोग सॉफ्टवेयर (application softwares)
+
+Question Number : 12 Question Id : 25498931328 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+जब हम फ्लैश ड्राइव में प्लग करते हैं, तो कंप्यूटर के रूप में इसकी पहचान करता है।
+Options :
+
+1. ¢ डिस्क ड्राइव
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 6/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+2. % प्राइमरी मेमोरी
+3. *# रीड ओनली मेमोरी
+4. * कैश मेमोरी
+
+Question Number : 12 Question Id : 25498931328 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+When we plug in a flash drive, the computer recognises it as:
+Options :
+
+1. ¥ a disk drive
+
+2. % primary memory
+
+3. # read only memory
+
+4. मै cache memory
+
+Question Number : 13 Question Id : 25498933053 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+ग्राफ़िक टैबलेट किस अन्य नाम से भी जाना जाता है?
+Options :
+
+1. ४ ड्रॉइंग टैबलेट
+
+2. % पक
+
+3. * बुक-पैड
+
+4. % पेंटोग्राफ़
+
+Question Number : 13 Question Id : 25498933053 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+A graphic tablet is also known as:
+Options :
+
+1. a drawing tablet
+
+2. ¥ apuck
+
+3. # a book-pad
+
+4. % a pantograph
+
+Question Number : 14 Question Id : 25498933180 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+उस विकल्प का चयन कीजिए जिसमें निम्न बाइट इकाइयों को आरोही क्रम में व्यवस्थित किया गया है।
+
+गीगाबाइट, मेगाबाइट, पेटाबाइट, टेराबाइट
+Options :
+
+1. ¢ मेगाबाइट, गीगाबाइट, टेराबाइट, पेटाबाइट
+2. # गीगाबाइट, मेगाबाइट, पेटाबाइट, टेराबाइट
+3. % मेगाबाइट, पेटाबाइट, गीगाबाइट, टेराबाइट
+4. ® गीगाबाइट, मेगाबाइट, टेराबाइट, पेटाबाइट
+
+Question Number : 14 Question Id : 25498933180 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Select the option that arranges the given byte units in ascending order of size.
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 7141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Gigabyte, Megabyte, Petabyte and Terabyte
+Options :
+
+1. ¥ Megabyte, Gigabyte, Terabyte, Petabyte
+2. ¥ Gigabyte, Megabyte, Petabyte, Terabyte
+3. # Megabyte, Petabyte, Gigabyte, Terabyte
+4. ¥ Gigabyte, Megabyte, Terabyte, Petabyte
+
+Question Number : 15 Question Id : 25498933935 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+कंप्यूटर की 1/0 डिवाइसों के संदर्भ में, असंगत विकल्प का चयन कीजिए।
+Options :
+
+1. % की-बोर्ड
+
+2. ¢ कंप्यूटर स्पीकर
+
+3. # माउस
+
+4. % जॉयस्टिक
+
+Question Number : 15 Question Id : 25498933935 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+With reference to I/O devices of a computer, select the ODD one out.
+Options :
+
+1. # Keyboard
+
+2. ¥ Computer speakers
+
+3. है Mouse
+
+4. ® Joystick
+
+Question Number : 16 Question Id : 2549898178 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+is a way of gaining access to a network by imitating a different IP address.
+Options :
+1. # Address spoofing
+2. ¥ App spoofing
+3. ¥ IP spoofing
+4. ¥ Email spoofing
+
+Question Number : 16 Question Id : 2549898178 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+, भिन्न IP एड्रेस का अनुकरण (नक़ल) कर किसी नेटवर्क तक पहुँच (एक्सेस) पाने का एक तरीका है।
+
+Options :
+
+1. % एड्रेस स्पूफ़िंग
+2. # ऐप स्पूफ़िंग
+3. IP स्पूफ़िंग
+4. % ईमेल स्पूफ़िंग
+
+Question Number : 17 Question Id : 2549899472 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 8/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which printer is considered to be the workhorse of the office because of its capability to quickly print a large number of
+documents?
+
+Options :
+
+1. # Inkjet printer
+
+2. + Laser printer
+
+3. # Dot matrix printer
+4. % Chain printer
+
+Question Number : 17 Question Id : 2549899472 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+बड़ी संख्या में दस्तावेज़ों (डोक्‍्युमेंट) को शीघ्रता से प्रिंट करने की क्षमता के कारण किस flex को कार्यालय का वर्कहॉर्स माना जाता है?
+Options :
+
+1. % इंकजेट प्रिंटर
+
+2. ४ लेज़र प्रिंटर
+
+3. % डॉट मैट्रिक्स प्रिंटर
+
+4. * चैन प्रिंटर
+
+Question Number : 18 Question Id : 2549899485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+A multi-function printer acts as:
+
+Options :
+
+1. ¢ a printer, copier, scanner and fax machine
+2. ¥ a printer only
+
+3. # 8 fax machine and a printer
+
+4. % a scanner and a printer
+
+Question Number : 18 Question Id : 2549899485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+बहु-कार्य (मल्टीफं क्शन) प्रिंटर किसके रूप में कार्य करता है?
+Options :
+
+1. ¢ प्रिंटर, कॉपियर, WR, फैक्स मशीन के रूप में
+2. % केवल प्रिंटर के रूप में
+
+3. * Hog मशीन और प्रिंटर के रूप में
+
+4. # स्कैनर और प्रिंटर के रूप में
+
+Question Number : 19 Question Id : 2549899595 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+A simulated device whose user interface and API resemble that of a printer driver, but which is not connected to a physical
+computer printer is called:
+
+Options :
+
+1. # a visual display unit
+2. ¥ a universal serial bus
+3. % a virtual printer
+
+4. % a printer driver
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 9/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 19 Question Id : 2549899595 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+एक सिम्युलेटेड डिवाइस जिसका यूजर इंटरफेस और API एक प्रिंटर ड्राइवर से मिलता जुलता है, लेकिन जो एक भौतिक कंप्यूटर प्रिंटर से जुड़ा
+नहीं है, वह क्या कहलाता है?
+
+Options :
+
+1. # विज्युअल डिस्प्ले यूनिट
+
+2. % यूनिवर्सल सीरियल बस
+
+3. ४ वर्चुअल प्रिंटर
+
+4. # प्रिंटर ड्राइवर
+
+Question Number : 20 Question Id : 25498910795 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+All printers come with one or more:
+Options :
+
+1. # soft fonts
+
+2. % hard fonts
+
+3. ¥ virtual fonts
+
+4. + resident fonts
+
+Question Number : 20 Question Id : 25498910795 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+सभी प्रिंटर एक aes के साथ आते हैं।
+Options :
+
+1. # सॉफ्ट फ़ॉन्ट्स
+
+2. % हार्ड फ़ॉन्ट्स
+
+3. % वर्चुअल फ़ॉन्ट्स
+
+4. * रेसीडेंट फ़ॉन्ट्स
+
+Question Number : 21 Question Id : 25498911258 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following refers to the transmission or passage of information or message from a sender through a selected channel to
+a receiver, overcoming barriers that affect its pace?
+
+Options :
+
+1. % Printing
+
+2. % Software
+
+3. ¥ Communication
+4. % Modulation
+
+Question Number : 21 Question Id : 25498911258 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन-सा, एक प्रेषक से एक चयनित चैनल के माध्यम से एक रिसीवर तक इसकी गति को प्रभावित करने वाली बाधाओं पर
+काबू पाकर सूचना या संदेश के प्रसारण या पसार होने को संदर्भित करता है?
+
+Options :
+
+1. % प्रिंटिंग
+
+2. ® सॉफ्टवेयर
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 10/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+3. ४ संचार
+4. # मॉडुलन
+
+Question Number : 22 Question Id : 25498913404 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+With reference to digital audio and video, MPEG stands for:
+Options :
+
+1. है Multiple Picture Experts Group
+
+2. % Motion Picture Experts Group
+
+3. ¥ Moving Picture Experts Group
+
+4. है Moving Photographs Experts Group
+
+Question Number : 22 Question Id : 25498913404 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+डिजिटल ऑडियो और वीडियो के संदर्भ में, MPEG का पूर्ण रूप क्या है?
+Options :
+
+1. ¥ Multiple Picture Experts Group (मल्टीप्ल पिक्चर एक्सपर्ट्स ग्रुप)
+
+2. मै Motion Picture Experts Group (मोशन पिक्चर एक्सपर्ट्स ग्रुप)
+
+3. ¥ Moving Picture Experts Group (मूविंग पिक्चर एक्सपर्ट्स ग्रुप)
+
+4. मै Moving Photographs Experts Group (मूविंग फोटोग्राफ्स एक्सपर्ट्स ग्रुप)
+
+Question Number : 23 Question Id : 25498913467 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In image compression systems, a quantizer refers to which of the following?
+
+Options :
+
+1. # It transforms the original input data into a form that is more amenable to compression.
+
+2. % The codeword length is fixed, irrespective of the probability of occurrence of quantized symbols.
+3. * It assigns a code word, a binary bit-stream, to each symbol at the output of the quantizer.
+
+4. + It generates a limited number of symbols that can be used in the representation of the transformed signal.
+
+Question Number : 23 Question Id : 25498913467 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+इमेज कंप्रेशन सिस्टम में, क्कांटाईज़र (quantizer) निम्नलिखित में से किसे संदर्भित करता है?
+
+Options :
+
+1. * यह मूल इनपुट डेटा को एक ऐसे रूप में बदल देता है जो संपीड़न के लिए अधिक उत्तरदायी है।
+
+2. # मात्रात्मक प्रतीकों के होने की संभावना के बावजूद, कोडवर्ड की लंबाई निश्चित है।
+
+3. * यह क्वांटाईज़र (quantizer) के आउटपुट पर प्रत्येक प्रतीक को एक कोड शब्द, एक बाइनरी बिट-स्ट्रीम एसाइन करता है।
+4. + यह सीमित संख्या में प्रतीकों को उत्पन्न करता है जिनका उपयोग रूपांतरित संकेत के निरूपण में किया जा सकता है।
+
+Question Number : 24 Question Id : 2549891 8485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In Windows, with reference to default printer settings, when printing multiple copies, which of the following tabs of printer
+properties enables you to set the order of pages and whether to staple the pages, staple position, etc.?
+
+Options :
+1. # Page Setup
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 11/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+2. ¥ Finishing
+3. ¥ Page Source
+4. % Quality
+
+Question Number : 24 Question Id : 25498918485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+विंडोज़ में, डिफ़ॉल्ट प्रिंटर सेटिग्स के संदर्भ में, कई प्रतियों को प्रिंट करते समय, प्रिंटर प्रॉपर्टी का निम्न में से कौन-सा टैब आपको पृष्ठों का क्रम
+निर्धारित करने में तथा पृष्ठीं को स्टेपल करना है की नहीं यह निर्धारण हेतु, स्टेपल स्थिति, आदि में सक्षम बनाता है?
+
+Options :
+
+1. ® पेज सेटअप (Page setup)
+
+2. + फ़िनिशिंग (Finishing)
+
+3. % पेज सोर्स (Page source)
+
+4. % क्वालिटी (Quality)
+
+Question Number : 25 Question Id : 25498918577 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+With reference to the internet, what does IP stand for?
+Options :
+
+1. # Internet Product
+
+2. % Internet Procedure
+
+3. # Internet Protocol
+
+4. ®¥ Internet Path
+
+Question Number : 25 Question Id : 25498918577 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+इंटरनेट के संदर्भ में, 1p का पूर्ण रूप क्या है?
+Options :
+
+1. मै Internet Product (ईटरनेट प्रोडक्ट)
+
+2. % Internet Procedure (ईटरनेट प्रोसीज़र)
+3. ¢ Internet Protocol (इंटरनेट प्रोटोकॉल)
+4. ®¥ Internet Path (इंटरनेट qr)
+
+Question Number : 26 Question Id : 25498920743 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following acts as an intermediary between a client and a server and is often used to isolate either the clients or servers
+for security purposes?
+
+Options :
+
+1. # Switch
+
+2. % Router
+
+3. ® Firewall
+
+4. ¥ Proxy server
+
+Question Number : 26 Question Id : 25498920743 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+निम्नलिखित में से कौन-सा, Farge और सर्वर के बीच मध्यस्थ के रूप में कार्य करता है और अक्सर सुरक्षा उद्देश्यों के लिए Farge या सर्वर को
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 12/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+अलग करने के लिए उपयोग किया जाता है?
+Options :
+
+1. * स्विच
+
+2. % राउटर
+
+3. * फ़ायरवॉल
+
+4. ४ प्रॉक्सी सर्वर
+
+Question Number : 27 Question Id : 25498922034 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a computer that hosts a website on the Internet?
+Options :
+
+1. ¥ Web Server
+
+2. ¥ Web Page
+
+3. है Search Engine
+
+4. ¥ Web browser
+
+Question Number : 27 Question Id : 25498922034 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन-सा एक कंप्यूटर है जो इंटरनेट पर एक वेबसाइट को होस्ट करता है?
+Options :
+
+1. # वेब सर्वर
+
+2. # वेब पेज
+
+3. # सर्च इंजन
+
+4. % वेब ब्राउज़र
+
+Question Number : 28 Question Id : 25498924177 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In a FAT 32 file system you CANNOT create
+Options :
+
+1. # a partition larger than 16 GB
+
+2. ¥ a partition larger than 8 GB
+
+3. ¥ a partition larger than 4 GB
+
+4. a partition larger than 32 GB
+
+Question Number : 28 Question Id : 25498924177 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+FAT 32 फ़ाइल सिस्टम में आप क्या नहीं बना सकते हैं?
+Options :
+
+1. % 16 GB से बड़ा विभाजन (partition)
+
+2. % 8 GB से बड़ा विभाजन (partition)
+
+3. * 4 GB से बड़ा विभाजन (partition)
+
+4. + 32 GB से बड़ा विभाजन (partition)
+
+Question Number : 29 Question Id : 25498925405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 13/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Machine language is also known as
+Options :
+1. #¥ High level language
+2. ¥ Low level language
+3. ¥ Object oriented language
+4. % Assembly language
+
+Question Number : 29 Question Id : 25498925405 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+मशीनी भाषा को के रूप में भी जाना जाता है।
+Options :
+
+1. % उच्च स्तरीय भाषा
+
+2. ७ निम्न स्तरीय भाषा
+
+3. # ऑब्जेक्ट ओरिएंटेड भाषा
+
+4. % एसेम्बली भाषा
+
+Question Number : 30 Question Id : 25498925447 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following guided data transmission media uses the concept of reflection of light through a core made up of glass or
+plastic?
+
+Options :
+
+1. # Shielded Twisted Pair Cable
+2. ¥ Coaxial Cable
+
+3. % Optical Fibre Cable
+
+4. मै Unshielded Twisted Pair Cable
+
+Question Number : 30 Question Id : 25498925447 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन-सा गाइडेड डेटा ट्रांसमिशन माध्यम (मिडिया), कांच या प्लास्टिक से बने कोर के माध्यम से प्रकाश के परावर्तन के सिद्धांत
+का प्रयोग करता है?
+
+Options :
+
+1. * Regs fies पेयर केबल
+
+2. # कोएक्सिअल केबल
+
+3. ४ ओए्रिकल फाइबर केबल
+
+4. % अनशिल्डेड ffs पेयर केबल
+
+Question Number : 31 Question Id : 2549896762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+किसी वेब पेज में मौजूद वह शब्द अथवा आइकॉन जिसपर क्लिक करके किसी अन्य वेबसाइट पर जाया जा सकता है, क्या कहलाता है?
+Options :
+
+1. % साइटेशन
+
+2. ४ हाइपरलिंक
+
+3. # रेफरेंस
+
+4. % एलिअस
+
+Question Number : 31 Question Id : 2549896762 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 14/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+is a text or an icon that you can click on to get to another website.
+Options :
+1. # A citation
+2. % A hyperlink
+3. ® A reference
+4. ¥ An alias
+
+Question Number : 32 Question Id : 2549896958 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+WWW का पूर्णरूप क्या है?
+
+Options :
+
+1. * वर्ल्ड वर्क वेब (World Work Web)
+2. # वाइड वर्क वेब (Wide Work Web)
+3. % वाइड वर्ल्ड वेब (Wide World Web)
+4. वर्ल्ड वाइड वेब (World Wide Web)
+
+Question Number : 32 Question Id : 2549896958 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+WWW stands for:
+
+Options :
+
+1. मै. World Work Web
+
+2. % Wide Work Web
+
+3. ¥ Wide World Web
+
+4. ¥ World Wide Web
+
+Question Number : 33 Question Id : 2549897206 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+गूगल कैलैंडर लैब्स का व्यू एक बार में पूरे वर्ष का अवलोकन प्रदान करता है।
+Options :
+
+1. # लिस्ट
+
+2. ईयर
+
+3. % पर्सनल
+
+4. % पीरियोडिक
+
+Question Number : 33 Question Id : 2549897206 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+view in Google Calendar Labs gives a view of the whole year at once.
+Options :
+1. है List
+2. Year
+3. ¥ Personal
+4. ® Periodic
+
+Question Number : 34 Question Id : 2549897429 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 15/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+MS-Word 2019 के होम टैब में निम्नलिखित में मौजूद किस विकल्प का उपयोग करके आप चयनित टेक्स्ट के सभी अक्षरों को बड़े अक्षरों में
+बदल सकते हैं?
+
+Options :
+
+1. % CAPITAL
+
+2. % UPPER
+
+3. % ALL CAPS
+
+4. + UPPERCASE
+
+Question Number : 34 Question Id : 2549897429 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+By using which of the following options within the Home tab of MS-Word 2019 can you change all selected text into capital
+letters?
+
+Options :
+
+1. है CAPITAL
+
+2. ¥ UPPER
+
+3. ह ALL CAPS
+4. + UPPERCASE
+
+Question Number : 35 Question Id : 2549897930 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+ई-मेल भेजने के दौरान हमें 'CC' नामक एक फ़ीचर दिखता 81 इसका पूर्णरूप क्या है?
+Options :
+
+1. ¢ कार्बन कॉपी (Carbon Copy)
+
+2. # कार्बन कोर (Carbon Core)
+
+3. % कार्बन केयर (Carbon Care)
+
+4. % कोर कॉपी (Core Copy)
+
+Question Number : 35 Question Id : 2549897930 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+While sending an email there is a feature called 'CC'. What is its full form?
+Options :
+
+1. % Carbon Copy
+
+2. ® Carbon Core
+
+3. # Carbon Care
+
+4. % Core Copy
+
+Question Number : 36 Question Id : 25498910496 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+कई ई-मेल सिस्टम एक सर्वर से टूसरे सर्वर पर संदेश भेजने के लिए प्रोटोकॉल का उपयोग करते हैं।
+Options :
+
+1. ¥ SMTP
+
+2. ® ICMP
+
+3. % HTTP
+
+4. % ARP
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 16/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 36 Question Id : 25498910496 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Many email systems use protocol to send messages from one server to another server.
+Options :
+
+1. ¥ SMTP
+
+2. ¥ ICMP
+
+3. # HTTP
+
+4. % ARP
+
+Question Number : 37 Question Id : 25498910535 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+डॉक्यूमेंट का सही पूर्वावलोकन प्राप्त करने के लिए, MS-Word को आपके द्वारा इस्तेमाल किए जा रहे पेपर के बारे में कुछ विवरण जानने की
+आवश्यकता है, जैसे पेज का और अभिविन्यास।
+
+Options :
+
+1. % मार्जिन
+2. % रंग
+
+3. * ब्रेक
+
+4. + आकार
+
+Question Number : 37 Question Id : 25498910535 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In order to provide the correct preview of a document being printed, MS-Word needs to know some details about the paper you're
+using such as the page and orientation.
+
+Options :
+
+1. है margin
+2. % colour
+3. ® break
+
+4. ¥ size
+
+Question Number : 38 Question Id : 25498910570 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+पहली लाइन को इंडेंट करने के चरण नीचे दिए गए § | उस विकल्प का चयन कीजिए जिसमें इन चरणों का सही अनुक्रम दिया गया है।
+
+a) RITE की
+b) अपना कर्सर
+८) और टैब की दबाएं
+
+d) पहली लाइन के आरंभ में रखें
+Options :
+
+1.¥b,a dc
+
+2.% b 8, 0, 0
+
+3.% bd ac
+
+4. % 8, bd c
+
+Question Number : 38 Question Id : 25498910570 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 17141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+Select the option that arranges the given steps to create a first line indent in correct order.
+
+a) at the beginning of the first line
+b) place your cursor
+
+c) press the tab key
+
+d) of the paragraph and
+
+Options :
+
+1. '# ७, 8, dc
+2.% 0, 8, 0, 0
+3.% bd ac
+4. % 8, bd c
+
+Question Number : 39 Question Id : 25498910590 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Select the option that arranges the given steps of a sequence to apply an indent in MS-Word 2016 in the correct order.
+
+a) Click on the very bottom of the indent marker
+b) Hold the rectangle
+
+¢) To change the left indent
+
+d) Drag it to a new position
+
+Options :
+
+1. '# ८, 8, 0, 6.
+2. मै 0, 8, (, 0
+3.% 0, 8, c,d
+4. % pd ac
+
+Question Number : 39 Question Id : 25498910590 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+MS-Word 2016 में इंडेंट को सही क्रम में लागू करने के लिए अनुक्रम के दिए गए चरणों को व्यवस्थित करने वाले विकल्प का चयन करें।
+
+a) इंडेंट मार्कर के बिल्कुल तल पर क्लिक करें
+b) आयत को GIs करें
+
+८) लेफ्ट इंडेंट पर परिवर्तित करने के लिए
+
+त) इसे एक नई स्थिति (पोज़ीशन) में ड्रेग करें
+Options :
+
+1. ८, 8, 0, 6.
+
+2.% 0, 8, (, ८
+
+3.% 0, 8, ८,
+
+4. % bd, 8, 0
+
+Question Number : 40 Question Id : 25498910619 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS-Excel का निम्नलिखित में से कौन सा फ़ीचर चयनित सेल को एक बड़े सेल में जोड़ने के लिए उपयोग किया जाता है और यह कंटेंट को एक
+नए सेल में केंद्रित करता है?
+
+Options :
+
+1. ¥ मर्ज एंड सेंटर
+
+2. # रैप टेक्स्ट
+
+3. ® कंडीशनल फॉर्मेटिग
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 18/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+4. % फॉर्मेट एज़ टेबल
+
+Question Number : 40 Question Id : 25498910619 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following features of MS-Excel is used to join the selected cells into one larger cell and centres the content in the new
+cell?
+
+Options :
+
+1. % Merge and Center
+
+2. % Wrap text
+
+3. # Conditional formatting
+4. हैँ Format as table
+
+Question Number : 41 Question Id : 25498910717 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following commands enables you to make multiple changes in an MS-Word 2010 document at once?
+Options :
+
+1. ¥ Drop cap
+
+2. ¥ Find
+
+3. ¢ Replace all
+
+4. ® Copy
+
+Question Number : 41 Question Id : 25498910717 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS-Word 2010 डॉक्यूमेंट में एक ही बार में कई सारे बदलाव करने के लिए निम्नलिखित में से किस कमांड का उपयोग किया जा सकता है?
+Options :
+
+1. % ड्राप कैप
+
+2. # BES
+
+3. ९४ रिप्लेस ऑल
+
+4. % कॉपी
+
+Question Number : 42 Question Id : 25498911480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन सा चेक बॉक्स विकल्प MS-Word 2016 के प्रूफिंग विकल्पों में 'जब MS ऑफिस प्रोग्राम में वर्तनी सुधार करते हैं' श्रेणी के
+अंतर्गत उपलब्ध होता है?
+
+Options :
+
+1. ¢ अपरकेस में शब्दों को अनदेखा करें
+
+2. # लोअरकेस में शब्दों को अनदेखा करें
+
+3. * अपरकेस में प्रतीकों और शब्दों को अनदेखा करें
+
+4. # लोअरकेस में प्रतीकों और शब्दों को अनदेखा करें
+
+Question Number : 42 Question Id : 25498911480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following check box options is avaialble under the catagory "When correcting spelling in MS Office programs',in
+proofing options of MS-Word 2016.
+
+Options :
+1. ¥ Ignore words in UPPERCASE
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 19/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+2. # Ignore words in lowercase
+3. # Ignore words in UPPERCASE and symbols
+
+4. ® Ignore words in lowercase and symbols
+
+Question Number : 43 Question Id : 25498911876 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+को बंद करने से आपके MS-Word 2019 डॉक्यूमेंट में ट्रैक किए गए बदलाव समाप्त नहीं होते हैं।
+Options :
+1. न ट्रैक चेंज
+2. * बैलून्स
+3. % शो मार्क अप
+4. % रिव्युविंग पैन
+
+Question Number : 43 Question Id : 25498911876 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Turning off does NOT eliminate the tracked changes that are already present in your MS-Word 2019 document.
+Options :
+
+1. % Track changes
+
+2. ¥ Balloons
+
+3. # Show markup
+
+4. मै Reviewing pane
+
+Question Number : 44 Question Id : 25498912485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन सी MS-Word 2019 के 'फुटर' की सबसे उपयुक्त परिभाषा है?
+Options :
+
+1. % यह डॉक्यूमेंट का एक भाग है ऊपरी मार्जिन में दिखाई देता है।
+
+2. # यह एक विकल्प है जो मेलिंग टैब में उपलब्ध है।
+
+3. « यह डॉक्यूमेंट का एक भाग है जो निचले मार्जिन में दिखाई देता है।
+
+4. % यह डॉक्यूमेंट का एक भाग है जो बाएं मार्जिन में दिखाई देता है।
+
+Question Number : 44 Question Id : 2549891 2485 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is the most appropriate definition of ‘a footer’ in MS-Word 2019?
+Options :
+
+1. # [115 a section of a document that appears in the top margin.
+
+2. ¥ Itis an option that is available in the Mailings tab.
+
+3. + [tis a section of a document that appears in the bottom margin.
+
+4. % [115 a section of a document that appears in the left margin.
+
+Question Number : 45 Question Id : 25498913684 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+इंटरनेट पर दिखने वाले इलेक्ट्रॉनिक पेज क्या कहलाते हैं?
+Options :
+
+1. ¢ वेबपेज
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 20/41
+
+03/03/2023, 17:54 https://g01.tcsion.com/CAEviewHtmIPDFAction.action
+2. % मुद्रित पेज
+3. % हार्ड कॉपी
+4. * रंगीन पेज
+
+Question Number : 45 Question Id : 25498913684 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+The electronic pages seen on the internet are known as ~~.
+Options :
+
+1. ¥ web pages
+
+2. % printed pages
+
+3. # hard copies
+
+4. ¥ colour pages
+
+Question Number : 46 Question Id : 25498919191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS-Word 2016 में, 'प्राप्तकर्ता चुनें, जो पत्रों की मेल मर्जिंग (merging) का तीसरा चरण है, एसके अंतर्गत विकल्प (विकल्पों) की संख्या कितनी
+होती है?
+
+Options :
+
+1. * एक
+
+2. % gq
+
+3. ४ तीन
+
+4. % चार
+
+Question Number : 46 Question Id : 25498919191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+There is(are) ~~ option(s) under 'Select Recipients’, which is the third step of mail merging of letters in MS-Word 2016.
+Options :
+
+1. है one
+
+2. मै two
+
+3. ¥ three
+
+4. ® four
+
+Question Number : 47 Question Id : 25498923911 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS-Word 2019 में टेक्स्ट को इटैलिक बनाने के लिए किस की-बोर्ड शॉर्टकट का उपयोग किया जाता है?
+Options :
+
+1L.¥ Cul+1
+
+2. % Curl +B
+
+3.% Ctrl+U
+
+4. मै Ctrl +27
+
+Question Number : 47 Question Id : 25498923911 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Which of the following keyboard shortcuts is used to make text italic in MS-Word 2019?
+Options :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 21/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+1L.¥ Cul+1
+2. है Cul+B
+3. # Ctrl+U
+4. मै Ctrl +27
+
+Question Number : 48 Question Id : 25498925300 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+MS word 2016 में फाइल को बंद करने के लिए आप फ़ाइल मेनू से किस विकल्प को चुनेंगे?
+Options :
+
+1. है किट
+
+2. ४ FT
+
+3. % gfe
+
+4. # रिटर्न
+
+Question Number : 48 Question Id : 25498925300 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following options of File Menu will you choose to close a file in MS-Word 2016?
+Options :
+
+1. # Quit
+
+2. ¥ Close
+
+3. % Exit
+
+4. ¥ Return
+
+Question Number : 49 Question Id : 25498925327 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What is the decimal equivalent of (10)?
+Options :
+
+1.416
+
+2. मै 2
+
+3.1]
+
+4. % 160
+
+Question Number : 49 Question Id : 25498925327 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से (10), का दशमलव समकक्ष क्या है?
+Options :
+
+1.¥ 16
+
+2. मै 2
+
+3. # 1
+
+4. % 160
+
+Question Number : 50 Question Id : 25498925480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+फ़ाइलों के वर्ज़न के संदर्भ में निम्न में से कौन सा विकल्प सही है?
+
+Options :
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 22/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+1. % यह आपकी फ़ाइलों की पुरानी प्रतियों को नए नामों से सेव करने को संदर्भित करता है।
+2. * आपकी फ़ाइलों के नए संस्करण बनाते समय, नई फ़ाइलों का एक ही नाम हो सकता है।
+3. % वर्जनिंग पुरानी फाइलों के विशिष्ट संस्करण को पुनः प्राप्त करने में मदद नहीं करेगा।
+
+4. + यह आपकी फ़ाइल की नई प्रतियों को सेव करने को संदर्भित करता है।
+
+Question Number : 50 Question Id : 25498925480 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is true with reference to Versioning of files?
+
+Options :
+
+1. # Itrefers to saving old copies of your files with new names.
+
+2. है. When creating new versions of your files, new files can have the same name.
+3. ¥ Versioning will not help in retrieving a specific version of older files.
+
+4. + It refers to saving new copies of your file.
+
+Question Number : 51 Question Id : 25498925504 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित में से कौन सी सबस्क्रि्रेड टेक्स्ट की सबसे सामान्य स्थिति है?
+Options :
+
+1. ४ आधार रेखा से थोड़ा सा नीचे
+
+2. # मध्य रेखा के ऊपर
+
+3. % शीर्ष रेखा के ऊपर
+
+4. % आधार रेखा से थोड़ा सा ऊपर
+
+Question Number : 51 Question Id : 25498925504 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is the most common position of subscripted text?
+Options :
+
+1. # Slightly below the baseline
+
+2. ¥ Above the mid line
+
+3. # Above the top line
+
+4. ¥ Slightly above the baseline
+
+Question Number : 52 Question Id : 25498933751 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+The is comprised of hyperlinks linking trillions of pages and files to one another.
+Options :
+
+1. ¥ World Wide Web
+
+2. ¥ Web Server
+
+3. ¥ Internet
+
+4. है WAN
+
+Question Number : 52 Question Id : 25498933751 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+में हाइपरलिंक्स होते हैं जो खरबों पेजों और फाइलों को एक GIR से जोड़ते हैं।
+
+Options :
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 23/141
+03/03/2023, 17:54
+
+1. ¢ वर्ल्ड वाइड वेब
+2. # वेब सर्वर
+
+https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+3. % इंटरनेट
+4. है WAN
+
+READING COMPREHENSION
+Section Id : 2549897005
+Section Number : 2
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+Number of Questions to be attempted : 1
+Section Marks : 5
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897046
+Question Shuffling Allowed : No
+Is Section Default? : null
+
+Question Id : 25498921187 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group
+Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time :
+N.A Minimum Instruction Time : 0
+
+Question Numbers : (53 to 57)
+
+Read the given passage and answer the questions.
+
+A doll
+When a little girl cuddles a favourite doll in her arms, she is holding a toy which has been loved by little girls through the centuries.
+
+A doll is a model of a human being, often used as a toy for children. Dolls have traditionally been used in magic and religious
+rituals throughout the world. The earliest dolls were made from available materials such as clay, stone, wood, bone, ivory, leather
+or wax. Archaeological evidence places dolls as the oldest known toy. Dolls that are thousands of years old have been found in
+Egyptian tombs. Some were made of baked clay; others were brightly painted wooden dolls with long hair made of strings of clay
+beads. The early Roman and Greek books too make a mention of dolls. In Rome, dolls were made of clay, wood or ivory. Dolls
+have been found in the graves of Roman children. Like children today, the younger members of Roman civilisation would dress
+their dolls according to the latest trends in fashion. When Greek and Roman girls got married they would dedicate their doll to a
+goddess. Rag dolls are traditionally home-made from spare scraps of cloth material. Roman rag dolls have been found dating back
+to 300 BC. Every suitable material has gone into doll making. But, from the earliest times, wood has been the favourite material
+from which were carved a toy baby or a small figure of a boy, a girl, a man or a woman. Germany has been famous for carved
+wooden dolls since the 15th century. In China, dolls were made from papier-maché. In early America, children played with dolls
+made of corn husk.
+
+Nowadays, all kinds of dolls are available. There are mechanical dolls that walk and talk. They squeak out the words ‘Pa-pa’ or
+‘Ma-ma’ as they walk around the floor with outstretched arms. A very popular doll with girls today is the Barbie doll. It is a model
+of a very pretty teenager with a perfect figure and an attractive face. It has blond or dark hair. This doll sometimes comes with
+many accessories such as a wardrobe consisting of dresses for her formal wear, swimming, wedding etc.
+
+Sub questions
+
+Question Number : 53 Question Id : 25498921188 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Traditionally, dolls were used throughout the world for:
+Options :
+
+1. # little girls to play
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 24/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+2. ® burying with the dead
+3. ¥ giving as wedding gifts
+
+4. % magic and religious rituals
+
+Question Number : 54 Question Id : 25498921189 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+What did the Roman and Greek girls do to their dolls when they got married?
+Options :
+
+1. ¢ They dedicated their dolls to a goddess.
+
+2. % They dressed them up according to the latest trends in fashion.
+
+3. ¥ They buried them in the graves of children.
+
+4. ¥ They gave them away to little girls.
+
+Question Number : 55 Question Id : 25498921190 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+What has been the favourite material for making dolls over the years?
+Options :
+
+1. ¥ Clay
+
+2. Wood
+
+3. ¥ Rags
+
+4. ® Wax
+
+Question Number : 56 Question Id : 25498921191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+In which country would one have found dolls made of corn husk?
+Options :
+
+1. ® China
+
+2. ¥ Greece
+
+3. + America
+
+4. ® Egypt
+
+Question Number : 57 Question Id : 25498921192 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following statements is NOT true of the dolls?
+Options :
+
+1. # Dolls have been loved by little girls for centuries.
+
+2. The Egyptian dolls had long hair made of wood.
+
+3. ¥ Barbie dolls are very popular with girls today.
+
+4. ¥ Mechanical dolls can walk and talk.
+
+Question Id : 25498921187 Question Type : COMPREHENSION Sub Question Shuffling Allowed : Yes Group
+Comprehension Questions : No Question Pattern Type : NonMatrix Calculator : None Response Time : N.A Think Time :
+N.A Minimum Instruction Time : 0
+
+Question Numbers : (53 to 57)
+
+दिए गए गद्यांश को पढ़ें और उसके आधार पर प्रश्नों के उत्तर दें।
+
+गुड़िया
+जब एक छोटी लड़की अपनी पसंदीदा गुड़िया को गोद में लेती है, तो उसके हाथ में एक खिलौना होता है जिसे सदियों से छोटी लड़कियों द्वारा
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 25/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+पसंद किया जाता है।
+
+गुड़िया इंसान का एक मॉडल है, जिसे अक्सर बच्चों के लिए खिलौने के रूप में इस्तेमाल किया जाता है। गुड़िया का उपयोग पारंपरिक रूप से
+दुनिया भर में जादू और धार्मिक अनुष्ठानों में किया जाता है। सबसे पुरानी गुड़िया उपलब्ध सामग्रियों से बनाई गई थीं, जैसे कि मिट्टी, पत्थर,
+लकड़ी, हड्डी, हाथीदांत, चमड़ा, या मोम। पुरातत्व साक्ष्य गुड़िया को सबसे पुराने ज्ञात खिलौने का स्थान देता है। हजारों साल पुरानी गुड़िया मिस्र
+FHA में पाई गई हैं। कुछ a नी हुई मिट्टी से बनी थी; तथा अन्य, मिट्टी मनको की डोर के बालों वाली चमकीले रंग से पेंट की हुई लकड़ी की
+गुड़िया थी। प्रारंभिक रोमन और यूनानी किताबें भी गुड़िया का जिक्र करती हैं। रोम में, गुड़िया मिट्टी, लकड़ी या हाथीदांत से बनी थी। रोमन बच्चों
+की कन्रों में गुड़िया पाई गई हैं। आज के बच्चो की तरह ही, रोमन सभ्यता के बच्चे फैशन में नवीनतम ट्रेड के अनुसार अपनी गुड़िया को वस्त्र
+पहनाते थे। जब ग्रीक और रोमन लड़कियां विवाह करती हैं तो वे अपनी गुड़िया को देवी को समर्पित करती हैं। रैग गुड़िया परंपरागत रूप से
+कपड़ो के शेष स्क्रैप से घरेलु-निर्मित होती हैं। रोमन रैग गुड़िया 300 ईसा मै मानी जाती है। हर उपयुक्त सा ad सामग्री का उपयोग गुड़िया बनाने
+में किया गया। लेकिन, शुरुआती समय से ही लकड़ी पसंदीदा सामग्री रही है, नक्‍्काशीदार बच्चे का या एक छोटे लड़के की
+प्रतिमा, एक लड़की, एक आदमी या एक महिला बनाई जाती थी। 15वीं शताब्दी से ही जर्मनी नक्काशीदार लकड़ी की गुड़िया के लिए प्रसिद्ध हैं।
+चीन में गुड़िया पेपर-माचे (papier-maché) से बनती थी। शुरुआत में, अमेरिका में बच्चों ने Had के भूसी से बनी गुड़िया के साथ खेला।
+
+आजकल, सभी प्रकार की गुड़िया उपलब्ध हैं। चलने और बात करने वाली यांत्रिक गुड़िया हैं। वे *पा-पा' या *माँ-माँ' शब्द बोलती हैं जब फर्श के
+चारों ओर हाथ को फैलाकर घूमती हैं। लड़कियों के लिए आज एक बहुत ही लोकप्रिय गुड़िया, बार्बी गुड़िया है। यह आदर्श देह आकार और
+आकर्षक चेहरे वाली एक बहुत सुंदर किशोरी का एक मॉडल है। इसके सुनहरे भूरे या काले रंग के बाल हैं। कभी-कभी यह गुड़िया कई सामानों
+के साथ मिलती है जैसे कि कपड़े जिसमें औपचारिक वस्त्र, तैराकी के पोशाक, शादी के कपड़े आदि शामिल हैं।
+
+Sub questions
+
+Question Number : 53 Question Id : 25498921188 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+परंपरागत रूप से गुड़िया किसके लिए दुनिया भर में इस्तेमाल की जाती थी?
+Options :
+
+1. * छोटी लड़कियों के खेलने के लिए।
+
+2. * मृतकों के साथ दफनाने के लिए।
+
+3. # शादी के उपहार के रूप में देने के लिए।
+
+4. ' जादू और धार्मिक अनुष्ठान के लिए।
+
+Question Number : 54 Question Id : 25498921189 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+रोमन और यूनानी लड़कियां जब शादी करती थी तब वह अपनी गुड़िया का क्या करती थीं?
+Options :
+
+1. अपनी गुड़िया को एक देवी को समर्पित करती थीं।
+
+2. # उन्हें नए-नए फैशन वाले कपड़े में तैयार करती थी।
+
+3. # उन्हें बच्चों की Hell में दफनाती थी।
+
+4. * खेलने के लिए छोटी लड़कियों को देती off
+
+Question Number : 55 Question Id : 25498921190 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+वर्षों से गुड़िया बनाने के लिए पसंदीदा सामग्री क्या रही है?
+Options :
+
+1. % मिट्टी
+
+2. लकड़ी
+
+3. # रैग
+
+4. मोम
+
+Question Number : 56 Question Id : 25498921191 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 26/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+किस देश में मकई के भूसे से बनी गुड़िया मिलती है?
+Options :
+
+1. # चीन
+
+2. * यूनान
+
+3. ४ अमेरिका
+
+4. % मिस्र
+
+Question Number : 57 Question Id : 25498921192 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+गुड़िया के लिए निम्नलिखित में से कौन-सा कथन सत्य नहीं है?
+Options :
+
+1. * सदियों से छोटी लड़कियों द्वारा गुड़िया को पसंद किया गया है।
+2. ¢ मिस्र की गुड़िया के लंबे बाल लकड़ी से बने थे।
+
+3. # बार्बी गुड़िया आज लड़कियों के लिए बहुत लोकप्रिय हैं।
+
+4. * यांत्रिक गुड़िया चल सकती हैं और बात कर सकती हैं।
+
+QUANTITATIVE APTITUDE
+
+Section Id : 2549897006
+Section Number : 3
+
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 6
+
+Number of Questions to be attempted : 6
+
+Section Marks : 6
+
+Display Number Panel : Yes
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897047
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 58 Question Id : 25498914319 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What value should come in place of the question mark (?) in the following expression?
+(4444 + 40) + (645 + 25) + (3991 + 26) =?
+
+Options :
+
+1. #2804
+2.9¥2904
+3. %2954
+4. % 2854
+
+Question Number : 58 Question Id : 25498914319 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action
+
+27141
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+निम्न व्यंजक में प्रश्नचिह्न के स्थान पर क्या आएगा?
+(4444 + 40) + (645 + 28) + (3991 + 26) =?
+
+Options :
+1. % 280.4
+
+2.४ 290.4
+3. % 295.4
+
+4. % 2854
+
+Question Number : 59 Question Id : 25498928807 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+When 30% of one number is subtracted from the second number, the result is four-fifth of the second number. What is the ratio of
+the first number to the second number?
+
+Options :
+1.%¥4:7
+2.% 3:2
+3.%2:5
+4.42:3
+
+Question Number : 59 Question Id : 25498928807 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+एक संख्या के 30% को जब टूसरी संख्या से घटाया जाता है, तो परिणाम के रूप में टूसरी संख्या का < प्राप्त होता है। पहली संख्या और
+
+दूसरी संख्या का अनुपात ज्ञात कीजिए।
+Options :
+
+1, मै 4:7
+
+2 ® 3:2
+
+3. है 2:5
+
+42:3
+
+Question Number : 60 Question Id : 25498928852 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+‘What approximate value should come in place of the question mark (?) in the following expression?
+
+(You are not expected to calculate the exact value.)
+
+74% of 366 + 12.6% of 317 =7
+Options :
+1. है 320
+2. % 280
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 28/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+3. % 350
+4.9310
+
+Question Number : 60 Question Id : 25498928852 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्नलिखित प्रश्न में प्रश्न चिहन (7) के स्थान पर अनुमानित मान क्‍या होना चाहिए? (आपको सटीक मान की
+गणना नहीं करनी है।)
+
+366 का 74% + 317 का 12.6% = ?
+Options :
+1. # 320
+
+5 # 280
+3. # 350
+
+4 wv 310
+
+Question Number : 61 Question Id : 25498929094 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+The value of the question mark (7) in the following expression is:
+84% of 624 + 12=7X7
+
+Options :
+
+1. # 63
+
+2. च 6.24
+
+3.% 634
+4. % 6.56
+
+Question Number : 61 Question Id : 25498929094 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+निम्नलिखित समीकरण मैं प्रश्नचिहन (?) के स्थान पर क्या आएगा?
+624 का 84% न 12 =? x 7
+
+Options :
+1. ® 63
+
+, v 6.24
+3. # 6.34
+
+4. # 6.56
+
+Question Number : 62 Question Id : 25498929370 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 29/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Correct Marks : 1 Wrong Marks : 0
+
+A single discount equivalent to two successive discounts of 20% and 10% is:
+Options :
+
+1. है 30%
+
+2. *ै 29%
+
+3. च 28%
+
+4. है 27%
+
+Question Number : 62 Question Id : 25498929370 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+की एक एकल छूट 20% और 10% की दो FART छूट के बराबर है।
+
+Options :
+1. # 30%
+
+2. # 29%
+3.४ 28%
+
+4. # 27%
+
+Question Number : 63 Question Id : 25498929622 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+If — =p+ _- where p, q and r are positive integers, then the value of (p + 2q + 37) is:
++
+
+qr
+T+
+Options :
+1.%7
+2. % 11
+3.419
+4. % 21
+
+Question Number : 63 Question Id : 25498929622 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+यदि नल =p+ = रा हैं, जहां p, q और r धनात्मक पूर्णांक हैं, तो (p + 2q + 3r) का मान क्या होगा?
+कक खाक के
++g
+
+Options :
+1.8 7
+
+2. के 11
+
+3.19
+
+4. कै 21
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 30/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+GENERAL MENTAL ABILITY AND REASONING
+
+Section Id : 2549897007
+Section Number : 4
+
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 6
+
+Number of Questions to be attempted : 6
+
+Section Marks : 6
+
+Display Number Panel : Yes
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897048
+Question Shuffling Allowed : Yes
+
+Is Section Default? : null
+
+Question Number : 64 Question Id : 25498910059 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+Among the following words, which one will come second if they are arranged as per their order in an English dictionary?
+
+Options :
+
+1. % Donation
+
+2. ¥ Donate
+
+3. # Donkey
+
+4. ¥ Donator
+
+Question Number : 64 Question Id : 25498910059 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+चार शब्द दिये गये हैं। यदि सभी शब्दों को एक शब्दकोश के अनुसार वर्णनुक्रम में व्यवस्थित किया जाता है, तो टूसरे स्थान पर कौन सा शब्द
+आयेगा?
+
+Options :
+
+1. % Donation
+
+2. ¥ Donate
+
+3. # Donkey
+
+4. % Donator
+
+Question Number : 65 Question Id : 25498914078 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+Unscramble the letters in the words given in options, and find the odd one out.
+
+Options :
+
+1. है ATES
+
+2. ¥ EWSN
+
+3. % HONRT
+
+4. मै EWTS
+
+Question Number : 65 Question Id : 25498914078 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 31/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+विकल्पों में दिए गए शब्दों में अक्षरों को सुलझायें, और विषम शब्द को चुनें।
+Options :
+1. # ATES
+2. ¥ EWSN
+3. # HONRT
+4. है EWTS
+
+Question Number : 66 Question Id : 25498919666 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+14: 9: : 26 : ?
+Options :
+1. % 12
+2.% 13
+3.¥15
+4. % 31
+
+Question Number : 66 Question Id : 25498919666 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+उस विकल्प का चयन करें जो तीसरी संख्या से ठीक उसी प्रकार संबंधित है जैसे ट्रसरी संख्या पहली संख्या से संबंधित 81
+
+14:9::26:7?
+Options :
+1. % 12
+2.% 13
+3.415
+4. % 31
+
+Question Number : 67 Question Id : 25498919830 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+Options :
+
+1. है Shoulder
+
+2. + Foot
+
+3. ¥ Elbow
+
+4. मै Arm
+
+Question Number : 67 Question Id : 25498919830 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+नीचे चार शब्द दिए गए हैं उनमें से तीन शब्द किसी तरीके से एक-समान गुण वाले हैं लेकिन कोई एक चौथा शब्द उन तीन से भिन्न है। उनमें भिन्न
+(आड वन) शब्द का पता लगाए।
+
+Options :
+
+1. ® कंधा
+
+2. ४ पैर
+
+3. # कोहनी
+
+4. % बाजू
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 32/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Question Number : 68 Question Id : 25498919832 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Four words have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+Options :
+
+1. ¥ Book
+
+2. % Paper
+
+3. ¥ Pencil
+
+4. % Pen
+
+Question Number : 68 Question Id : 25498919832 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+Correct Marks : 1 Wrong Marks : 0
+
+नीचे चार शब्द दिए गए हैं उनमें से तीन शब्द किसी तरीके से एक-समान गुण वाले हैं लेकिन कोई एक चौथा शब्द उन तीन से भिन्न है। उनमें भिन्न
+(आड वन) शब्द का पता लगाए।
+
+Options :
+
+1. ¢ पुस्तक
+
+2. # कागज़
+
+3. * पेंसिल
+
+4. % पेन
+
+Question Number : 69 Question Id : 25498927369 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : 0 Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Find the number of triangles in the given figure.
+
+LX
+
+Options :
+1. #15
+2. % 16
+3.9¥17
+4. % 18
+
+Question Number : 69 Question Id : 25498927369 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+दी गई आकृति में त्रिभुजों की संख्या ज्ञात्त कीजिए।
+
+Options :
+1. #15
+2. % 16
+3.417
+4. % 18
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 33/41
+03/03/2023, 17:54
+
+https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+GENERAL AWARENESS
+Section Id : 2549897008
+Section Number : 5
+Section type : Online
+Mandatory or Optional : Mandatory
+Number of Questions : 6
+Number of Questions to be attempted : 6
+Section Marks : 6
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897049
+Question Shuffling Allowed : Yes
+Is Section Default? : null
+
+Question Number : 70 Question Id : 2549895296 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+What does the word 'Aryan' mean?
+Options :
+
+1. ¥ The noble one
+
+2. # Cultivator
+
+3. # Pastoral society
+
+4. ¥ Brahmachari
+
+Question Number : 70 Question Id : 2549895296 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+*आर्यन' शब्द का अर्थ क्या है?
+
+Options :
+
+1. कुलीन व्यक्ति
+
+2. % कृषक
+
+3. # ग्रामीण समाज
+
+4. % ब्रह्मचारी
+
+Question Number : 71 Question Id : 25498912523 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Identify the product belonging to the organic waste category among the following.
+Options :
+
+1. ¥ Old Mobile phone
+
+2. ¥ Straw
+
+3. # Battery
+
+4. % Plastic cups
+
+Question Number : 71 Question Id : 25498912523 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 34/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+जैविक अपशिष्ट वर्ग से संबंधित अपशिष्ट उत्पाद निम्न में से कौन सा है?
+Options :
+1. % पुराने मोबाइल फ़ोन
+2. ४ पुआल
+3. # बैटरी
+4. % प्लास्टिक के कप
+
+Question Number : 72 Question Id : 25498929951 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Which of the following statements is/are correct?
+
+1) Kaolinite is weathered silicate clay.
+2) The kaolinisation process occurs due to hydrothermal alteration of feldspar.
+
+Options :
+
+1. है Only 1
+
+2. % Only 2
+
+3.¥ Both 1 and 2
+4. ¥ Neither 1 nor 2
+
+Question Number : 72 Question Id : 25498929951 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्न में से कौन सा/से कथन सही gre?
+1. चीनी गिटी oe अपक्षयित सिलिकेट मृदा है।
+2.के (kaolinisation) प्रकिया फेल्सपार के जलऊष्म परिवर्तन के कारण होती है।
+Options :
+1. है केवल 1
+2. # केवल 2
+3. ४ 1 और 2 दोनों
+
+4. % नातो 1 और ना ही 2
+
+Question Number : 73 Question Id : 25498932104 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+Match the columns:
+
+Persons ‘Well known as
+A. Amrita Sher-Gil 1. Dancer
+B. Bhimsen Joshi 2. Painter
+C. Rukmini Devi Arundale | 3. Poet
+D. Suryakant Tripathi Nirala | 4. Singer
+
+Options :
+
+1.L¥A-2B-1,C-4D-3
+2¥A-2B-4C-1,D-3
+3.A-3B-1,C-4,D-2
+4 ¥A-3B-4C-1,D-2
+
+Question Number : 73 Question Id : 25498932104 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 35/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+Correct Marks : 1 Wrong Marks : 0
+
+निम्न को सुमेलित कीजिए:
+
+सूची-। (व्यक्ति) सूची-॥ [के रूप मैं प्रसिद हैं)
+A. अमृता शेरगिल 1. नर्तक
+8. भीमसेन जोशी 2. चित्रकार
+C. रुकमणी देवी अरुंदाले | 3. कवि
+D. सूर्यकांत Farr निराला | 4. गायक
+
+Options :
+
+1.¥A-2B-1,C-4D-3
+2¥A-2B-4C-1,D-3
+3.A-3B-1,C-4,D-2
+4. कै A -3B-4C-1,D-2
+
+Question Number : 74 Question Id : 25498935796 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following is a natural 'mosquito repellent’?
+Options :
+
+1. ¥ Lavender Oil
+
+2. + Citronella Oil
+
+3. # Tea Tree Oil
+
+4. ¥ Patchouli Oil
+
+Question Number : 74 Question Id : 25498935796 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+निम्न में से कौन सा एक प्राकृतिक मच्छर प्रतिकर्षक (रेपलेंट) है?
+Options :
+
+1. % लैवेंडर का तेल
+
+2. ¢ सिट्रोनिला का तेल
+
+3. * चाय के पौधे का तेल
+
+4. % पचौली का तेल
+
+Question Number : 75 Question Id : 25498937113 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+
+Which of the following Indian cities is called the 'Sugar Bowl of India’?
+Options :
+
+1. ¥ Muzaffarnagar
+
+2. ¥ Dhanbad
+
+3. ¥ Balasore
+
+4. ¥ Amravati
+
+Question Number : 75 Question Id : 25498937113 Question Type : MCQ Option Shuffling : Yes Display Question Number :
+Yes Is Question Mandatory : No Calculator : None Response Time : N.A Think Time : N.A Minimum Instruction Time : 0
+
+Correct Marks : 1 Wrong Marks : 0
+भारत के निम्नलिखित में से किस शहर को 'चीनी का कटोरा' कहा जाता है?
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 36/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Options :
+1. ¢ सुज़फ्फरनगर
+2. # धनबाद
+3. % बालासोर
+4. * अमरावती
+English Mock
+Group Number : 2
+Group Id : 2549894447
+Group Maximum Duration : 5
+Group Minimum Duration : 5
+Show Attended Group? : No
+Edit Attended Group? : No
+Break time : 1
+Mandatory Break time : Yes
+Group Marks : 0
+Is this Group for Examiner? : No
+Examiner permission : Cant View
+Show Progress Bar? : No
+English Mock
+Section Id : 2549897009
+Section Number : 1
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+Number of Questions to be attempted : 1
+Section Marks : 0
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897050
+Question Shuffling Allowed : No
+Is Section Default? : Yes
+
+Question Number : 76 Question Id : 25498941285 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+Summer camps are supervised camps conducted to entertain as well as equip students with various life skills such as
+teamwork, socializing, decision making, independent and responsible living and more. It aids the overall development of a
+child and children have fun during this process as they get to explore new arenas.
+
+Restricted/ Unrestricted : Unrestricted
+Paragraph Display : Yes
+
+Keyboard Layout : Inscript
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action
+
+37/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+English Actual
+
+Group Number : 3
+
+Group Id : 2549894448
+Group Maximum Duration : 15
+
+Group Minimum Duration : 15
+
+Show Attended Group? : No
+
+Edit Attended Group? : No
+
+Break time : 3
+Mandatory Break time : Yes
+Group Marks : 0
+
+Is this Group for Examiner? : No
+Examiner permission : Cant View
+Show Progress Bar? : No
+
+English Typing Test
+
+Section Id : 2549897010
+Section Number : 1
+
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+
+Number of Questions to be attempted : 1
+
+Section Marks : 0
+
+Display Number Panel : Yes
+
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897051
+Question Shuffling Allowed : No
+
+Is Section Default? : Yes
+
+Question Number : 77 Question Id : 25498937914 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+Plastic has been around for nearly a century finding application across various fields and industries. In fact if we take a
+look around us we can find at least one or two items made entirely of plastic. For a short period of time low weight plastic
+bags were considered as the most used product in the world. Customers were given these lightweight plastic bags when they
+purchased a product from any vendor. They provided a convenient and hygienic way of transporting goods. Moreover since
+these bags were extremely cheap to manufacture they were given free of cost to the customers. However the environmental
+implications of plastic can be observed now. Lightweight plastic bags were traditionally made of low density poly ethylene
+plastic. These plastic items were primarily produced using petroleum or natural gas which is non renewable resources. It
+also became increasingly difficult to dispose of as it was not biodegradable. Over time these plastics quickly accumulated in
+landfills thereby reducing its efficiency. One of the solutions proposed for resolving this problem is recycling. However it is
+not widely implemented especially in India. As stated previously the production of plastic uses non renewable resources like
+coal and natural gas. This directly contributes to global warming and an increased carbon footprint. Using non reusable
+resources directly contributes to the production of greenhouse gases which can change the dynamics of the planet. In the
+long run this can have disastrous consequences on our planet like extreme weather patterns and instability in the
+ecosystem. Humans will be drastically affected if the ecosystem becomes unbalanced. There would be widespread shortages
+of food which can directly affect an economy. Continued production and usage of plastic will only worsen the situation. The
+biggest problem of plastics was its inability to decompose. Currently charges and bans are the two solutions to curb the
+usage of plastic. Charges ensure that the cost of the plastic bag is to be borne by the consumers. This not only discourages
+the use of plastic bags but also generates an additional source of income. The ban method outright bans the use of plastic
+bags. However this method is rather hard to implement in practice. A country like India does not have the required
+resources to strictly enforce the ban. Hence this method may not be as viable as the latter. Another method is to recycle
+plastic bags however according to recent statistics just five percent of plastic bags return to recycling facilities. The rest end
+up on the streets where they become litter. Plastic bags that are under twenty micrometre in thickness have been banned
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 38/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+since years but the enforcement of the ban is almost negligible. The primary reason these plastic bags got banned was due
+to the fact that cows mistake these bags for food and they end up eating it them. Consequently this blocks up their intestines
+and results in death. Today the repercussions of plastic were better understood than a decade ago. Hence many countries
+have opted to outright ban plastic or at least recycle existing plastic. This act has led to reduced carbon emissions as well as
+addressing many other related problems. New discoveries and alternatives to tackle the problem of plastics will pave the
+way for a new generation in a much cleaner and greener planet.
+
+Restricted/ Unrestricted : Unrestricted
+Paragraph Display : Yes
+
+Keyboard Layout : Inscript
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+Hindi Mock
+Group Number : 4
+Group Id : 2549894449
+Group Maximum Duration : 10
+Group Minimum Duration : 10
+Show Attended Group? : No
+Edit Attended Group? : No
+Break time : 5
+Mandatory Break time : Yes
+Group Marks : 0
+Is this Group for Examiner? : No
+Examiner permission : Cant View
+Show Progress Bar? : No
+Hindi Mock
+Section Id : 2549897011
+Section Number : 1
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+Number of Questions to be attempted : 1
+Section Marks : 0
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897052
+Question Shuffling Allowed : No
+Is Section Default? : Yes
+
+Question Number : 78 Question Id : 25498944390 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+एक बार की बात है, अकबर और बीरबल शिकार पर जा रहे थे। अभी कुछ समय की उन्हें एक हिरण दिखा। जल्दबाजी में तीर
+निकालते हुए अकबर अपने हाथ पर घाव लगा बैठा। अब हालात कुछ ऐसे थे की अकबर gga दर्द में था और गुस्से में भी।
+Restricted/ Unrestricted : Unrestricted
+
+Paragraph Display : Yes
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 39/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+Keyboard Layout : Remington
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+Hindi Actual
+Group Number : 5
+Group Id : 2549894450
+Group Maximum Duration : 15
+Group Minimum Duration : 15
+Show Attended Group? : No
+Edit Attended Group? : No
+Break time : 0
+Group Marks : 0
+Is this Group for Examiner? : No
+Examiner permission : Cant View
+Show Progress Bar? : No
+
+Hindi Typing Test
+
+Section Id : 2549897012
+
+Section Number :
+
+1
+
+Section type : Typing Test
+Mandatory or Optional : Mandatory
+Number of Questions : 1
+
+Number of Questions to be attempted : 1
+
+Section Marks : 0
+
+Display Number Panel : Yes
+Enable Mark as Answered Mark for Review and Clear Response : Yes
+Maximum Instruction Time : 0
+Sub-Section Number : 1
+Sub-Section Id : 2549897053
+Question Shuffling Allowed : No
+
+Is Section Default? : Yes
+
+Question Number : 79 Question Id : 25498944462 Question Type : TYPING TEST Display Question Number : Yes
+Calculator : None
+
+विज्ञान ने इंसान को एक से बढकर एक अनोखे उपकरण प्रदान किए हैं। इन सभी अनोखे उपकरणों में एक है द्वरदर्शन। ट्ररदर्शन ऐसा
+अनोखा उपकरण है जिसे कुछ समय पहले खयालों की चीज ही समझा जाता था। यह आधुनिक युग में मनोरंजन के साथ साथ
+सूचनाओं को पाने का एक जरूरी साधन भी बन गया है। पहले इसका उपयोग केवल महानगरों के घरों तक ही सीमित था परंतु
+
+वर्तमान में इसकी पहुंच शहर और गांव के हर घर तक हो गई है 1 दरवर्शन रदर्शन मनोरंजन एवं ज्ञानवर्धन का सबसे बेहतरीन साधन है। आज
+यह हर घर की जरूरत बन गया है। उपग्रह संबंधी प्रसारण की सुविधा के कारण इस पर कार्यक्रमों की भरमार हो गई है। कभी मात्र दो
+चैनल तक सीमित रहने वाले द्वरदर्शन पर आज अनेकानेक चैनल हो गए हैं। बस रिमोट कंट्रोल उठाकर अपना मन पसंद चैनल लगाने
+और रुचि के अनुसार कार्यक्रम देखने की देर रहती है। आज GRE पर सिनेमा व धारावाहिक तथा समाचार और गीत संगीत के
+अलावा खेलों का प्रसारण व मौसम का हाल भी बताया जाने लगा है। इतना ही नहीं आज यह हिंदी व अंग्रेजी के अलावा क्षेत्रीय
+भाषाओं में प्रसारण की सुविधा के कारण महिलाओं व युवाओं और हर आयुवर्ग के Bukit लोकप्रिय बन चुका है। अपनी उपयोगिता के
+कारण दट्ररदर्शन आज मात्र विलसिता की चीज न होकर एक जरूरत बन गया है। बालक व बुजुर्ग तथा युवा और महिलाएं इसे समान
+रूप से पसंद करते हैं। इस पर प्रसारित होने वाले रामायण और महाभारत जैसे कार्यक्रमों ने इसे हर जन मानस तक पहुंचा दिया हैं।
+उस समय लोग इन कार्यक्रमों के प्रसारण के पूर्व ही अपना काम या तो पूरा कर लेते या फिर बंद कर देते और इसके सामने आकर बैठ
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 40/41
+03/03/2023, 17:54 https://g01.tcsion.com/CAE viewHtmIPDFAction.action
+
+जाते थे। गांवों और छोटे शहरों में सडकें सुनसान हो जाती थी। आज of gw देशों का जब भारत के साथ क्रिकेट मैच होता है तो
+
+इसका असर साधारण जन मानस पर साफ देखा जा सकता है। लोग सब कुछ भूलकर gr रदर्शन से ही चिपक जाते हैं और बालक तो
+
+पढना भी भूल जाते हैं। आज भी महिलाएं चाय बनाने जैसे छोटे छोटे काम तभी हैं जब धारावाहिक के बीच विज्ञापन आता है।
+
+द्वरदर्शन विविध क्षेत्रों में विविध रूपों में लाभदायक है। यह वर्तमान में सबसे सुलभ मनोरंजन का साधन है। इस पर मात्र बिजली और
+
+कुछ रुपये के मासिक खर्च पर मनचाहे कार्यक्रमों का आनंद उठाया जा सकता है। अब आप अपने किसी भी प्रिय धारावाहिक का घर
+
+ही सहपरिवार आनंद उठा सकते हैं। ट्ररदर्शन पर दुनिया के किसी भी कोने में घट रही ताजी घटनाओं को चित्रों के साथ समाचार
+
+के रूप में प्रसारित किया जाता है। जहां एक तरफ हम इनसे । दुनिया का हाल जान पाते हैं तो वहीं दूसरी ओर प्राणियों व घाटियों और
+
+वादियों तथा पहाड की चोटियों जैसी दुर्गम जगहों का दर्शन हमें रोमांचित कर जाता है। इस तरह जिन जगहों को हम पर्यटन के जरिए
+
+साक्षात नहीं देख पाते हैं और जिनको के लिए न हमारे पास समय है उनको साक्षात हमारी आंखों के सामने पेश कर दिया जाता
+
+हैं। ट्ररदर्शन के जरिए हमें कई प्रकार के शैक्षिक एवं कारोबारी ज्ञान भी मिलता है। इसके अलावा रोजगार व खेती बारी संबंधी विविध
+
+जानकारियां भी ट्ररदर्शन पर आसानी से मिल जाती हैं। ट्रदर्शन लोगों के बीच इतना लोकप्रिय है कि लोग इसके कार्यक्रमों में खो जाते
+।
+
+Restricted/ Unrestricted : Unrestricted
+
+Paragraph Display : Yes
+
+Keyboard Layout : Remington
+
+Show Details Panel : Yes
+
+Show Error Count : Yes
+
+Highlight Correct or Incorrect Words : Yes
+
+Allow Back Space : Yes
+
+Show Back Space Count : Yes
+
+https://g01 tesion.com/CAE/viewHtmIPDFAction.action 41/41
